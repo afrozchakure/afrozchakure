@@ -12,25 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### **Let's do a challenge (Find the Hidden Code):**
+  <img src='https://media.giphy.com/media/ReUjqxdjwCeM2lSRq1/giphy.gif' width = '800px' height='300px'>  
 
-### Hi 👋, I'm _Afroz Chakure_
-#### __A Tech Blogger 👨‍💻 and Microsoft Student Partner 👨‍🎓__
+#### **Did you break the code ??**
   
-<img src='https://media.giphy.com/media/ReUjqxdjwCeM2lSRq1/giphy.gif' width = '800px' height='400px'>
+**Hint:** Examine the Laptop.
 
 
-I'm a Book Lover with interest in Artificial Intelligence 🤖📚
+### **About me:**  
+- A Tech Blogger 👨‍💻 and Microsoft Student Partner 👨‍🎓
+- Book Lover with interest in Artificial Intelligence 🤖📚  
+
+
+
 
 ### **Skills :**  
 Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 
-- 🔭 I’m currently working on Deep Learning and Computer Vision 
-- 🌱 I’m currently learning Tensorflow and Keras 
-- 👯 I’m looking to collaborate on any Machine Learning project. 
+- 🔭 Currently working on Deep Learning and Computer Vision 
+- 🌱 Currently learning Tensorflow and Keras 
+- 👯 Looking to collaborate on any Machine Learning project. 
 - 💬 Ask me about Best Books to read.  
 - 📫 How to reach me: aaaanchakure@gmail.com 
 - 😄 Pronouns: **He / His / Him** 
-- ⚡ Fun fact: I can touch type @ 60+ WPM and represented 
+- ⚡ Fun fact: Can touch type @ 60+ WPM.
 
 ### **My Internet Profiles :**   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/afrozchakure) [<img src='logos/medium-brands.svg' alt='medium' height='40'>](https://medium.com/@aaaanchakure) [<img src='logos/hackerrank.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/aaaanchakure)

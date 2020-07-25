@@ -40,4 +40,5 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 
 ### **Github Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true)  ![Profile views](https://gpvc.arturio.dev/afrozchakure)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true)    
+![Profile views](https://gpvc.arturio.dev/afrozchakure)

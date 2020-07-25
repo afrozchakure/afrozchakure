@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi 👋, I'm _Afroz Chakure_
 #### __A Tech Blogger 👨‍💻 and Microsoft Student Partner 👨‍🎓__
-![Passionate Tech Blogger 👨‍💻 and Microsoft Student Partner 👨‍🎓](https://media.giphy.com/media/ReUjqxdjwCeM2lSRq1/giphy.gif)
+  
+<img src='https://media.giphy.com/media/ReUjqxdjwCeM2lSRq1/giphy.gif' width = '600px'>
+
 
 I'm a Book Lover with interest in Artificial Intelligence 🤖📚
 

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### **Let's do a challenge (Find the Hidden Code):**
-  <img src='https://media.giphy.com/media/ReUjqxdjwCeM2lSRq1/giphy.gif' width = '800px' height='300px'>  
+  <img src='https://media.giphy.com/media/ReUjqxdjwCeM2lSRq1/giphy.gif' width = '700px' height='400px'>  
 
 #### **Did you break the code ??**
   

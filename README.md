@@ -60,6 +60,11 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 
 ### 🔥 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Docker](https://medium.com/swlh/introduction-to-docker-96aad5eabb30?source=rss-e956e8d58684------2)
+- [Driver-less cars](https://towardsdatascience.com/driver-less-cars-ec8c22b5187a?source=rss-e956e8d58684------2)
+- [Introduction to Hadoop](https://towardsdatascience.com/introduction-to-hadoop-bd305512a28c?source=rss-e956e8d58684------2)
+- [The Random forest is a non-continuous model which is represented by the horizontal lines in the…](https://medium.com/@aaaanchakure/the-random-forest-is-a-non-continous-model-which-is-represented-by-the-horizontal-lines-in-the-aadd49864ae2?source=rss-e956e8d58684------2)
+- [Look for the Gold](https://medium.com/@aaaanchakure/look-for-the-gold-8bbe23757d64?source=rss-e956e8d58684------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Github Stats**

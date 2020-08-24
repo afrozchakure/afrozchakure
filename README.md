@@ -1,10 +1,10 @@
 # Hey <img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px">, I'm [afroz!](https://github.com/afrozchakure) 
 
 <div align="center">
+
 [![Years Badge](https://badges.pufler.dev/years/afrozchakure)](https://badges.pufler.dev)
-[![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/india.html)
 [![Repos Badge](https://badges.pufler.dev/repos/afrozchakure)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Internity-Summer-Internship-Work)](https://badges.pufler.dev)
 
 </div>
 
@@ -23,7 +23,7 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 - 😄 Pronouns: **He / His / Him** 
 - ⚡ Fun fact: Can touch type @ 70+ WPM
 
-# My Internet Profiles :  
+# <img src="https://giphy.com/gifs/T5nP7Nwu5FzMc" width="50"> My Internet Profiles :  
 
 <!-- Github -->
 <a href="https://github.com/afrozchakure">
@@ -48,7 +48,7 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 <!-- Linkedin -->
 <img href="https://www.linkedin.com/in/afroz-chakure-489780168/" align="left" alt="afrozchakure | LinkedIn" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/linkedin.jpg" draggable="false"/>
 <!-- Website -->
-<img href="https://hardtasksin.wordpress.com" align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' draggable="false">
+<img href="https://hardtasksin.wordpress.com" align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='30px' draggable="false">
 <!-- Youtube -->
 <img href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" align="left" alt="afrozchakure | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" draggable="false"/><br>
 
@@ -62,12 +62,8 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 - [Support Vector Machines (SVMs)](https://towardsdatascience.com/support-vector-machines-svms-4bcccbd78369?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
-# **Github Stats**
+# <img src="https://giphy.com/gifs/35B3Val0pYgtpScqsz" width="50"> Github Stats
 <p align="left">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)    
-</p>
 
-[website]: https://hardtasksin.wordpress.com
-[youtube]: https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber
-[instagram]: https://instagram.com/afrozchakure
-[linkedin]: https://www.linkedin.com/in/afroz-chakure-489780168/
+![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)
+</p>

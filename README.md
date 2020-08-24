@@ -1,26 +1,16 @@
-<!--
-**afrozchakure/afrozchakure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hey <img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px">, I'm [afroz!](https://github.com/afrozchakure) 
 
+<div align="center">
+[![Years Badge](https://badges.pufler.dev/years/afrozchakure)](https://badges.pufler.dev)
+[![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/india.html)
+[![Repos Badge](https://badges.pufler.dev/repos/afrozchakure)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/git-badges)](https://badges.pufler.dev)
+
+</div>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me 
 - A Tech Blogger 👨‍💻 and Microsoft Learn Student Ambassador 👨‍🎓
 - Book Lover with interest in Artificial Intelligence 🤖📚  
-
-
-
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills :
 Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
@@ -56,13 +46,13 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
   <img align="left" alt="afroz's Hackerrank" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/stackoverflow.png" draggable="false" />
 </a>
 <!-- Linkedin -->
-<img href="https://www.linkedin.com/in/afroz-chakure-489780168/" align="left" alt="afrozchakure | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" draggable="false"/>
+<img href="https://www.linkedin.com/in/afroz-chakure-489780168/" align="left" alt="afrozchakure | LinkedIn" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/linkedin.jpg" draggable="false"/>
 <!-- Website -->
 <img href="https://hardtasksin.wordpress.com" align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' draggable="false">
 <!-- Youtube -->
 <img href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" align="left" alt="afrozchakure | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" draggable="false"/><br>
 
-### 🔥 Latest Blog Posts
+# 🔥 Latest Blog Posts
 <!-- Medium:START -->
 - [Introduction to Docker](https://medium.com/swlh/introduction-to-docker-96aad5eabb30?source=rss-e956e8d58684------2)
 - [Driver-less cars](https://towardsdatascience.com/driver-less-cars-ec8c22b5187a?source=rss-e956e8d58684------2)
@@ -71,11 +61,10 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 - [Look for the Gold](https://medium.com/@aaaanchakure/look-for-the-gold-8bbe23757d64?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
-### **Github Stats**
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true)    
-![Profile views](https://gpvc.arturio.dev/afrozchakure)
-
+# **Github Stats**
+<p align="left">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)    
+</p>
 
 [website]: https://hardtasksin.wordpress.com
 [youtube]: https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber

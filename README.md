@@ -59,6 +59,7 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 - [Introduction to Hadoop](https://towardsdatascience.com/introduction-to-hadoop-bd305512a28c?source=rss-e956e8d58684------2)
 - [The Random forest is a non-continuous model which is represented by the horizontal lines in the…](https://medium.com/@aaaanchakure/the-random-forest-is-a-non-continous-model-which-is-represented-by-the-horizontal-lines-in-the-aadd49864ae2?source=rss-e956e8d58684------2)
 - [Look for the Gold](https://medium.com/@aaaanchakure/look-for-the-gold-8bbe23757d64?source=rss-e956e8d58684------2)
+- [Support Vector Machines (SVMs)](https://towardsdatascience.com/support-vector-machines-svms-4bcccbd78369?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 # **Github Stats**

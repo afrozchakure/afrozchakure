@@ -23,7 +23,7 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 - 😄 Pronouns: **He / His / Him** 
 - ⚡ Fun fact: Can touch type @ 70+ WPM
 
-# <img src="https://giphy.com/gifs/T5nP7Nwu5FzMc" width="50"> My Internet Profiles :  
+# <img src="https://media.giphy.com/media/T5nP7Nwu5FzMc/giphy.gif" width="50"> My Internet Profiles :  
 
 <!-- Github -->
 <a href="https://github.com/afrozchakure">
@@ -62,7 +62,7 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 - [Support Vector Machines (SVMs)](https://towardsdatascience.com/support-vector-machines-svms-4bcccbd78369?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
-# <img src="https://giphy.com/gifs/35B3Val0pYgtpScqsz" width="50"> Github Stats
+# <img src="https://media.giphy.com/media/35B3Val0pYgtpScqsz/giphy.gif" width="50"> Github Stats
 <p align="left">
 
 ![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)

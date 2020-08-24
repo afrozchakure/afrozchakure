@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px">, I'm [afroz!](https://github.com/afrozchakure) 
+# Hey <img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px">, I'm [Afroz!](https://github.com/afrozchakure) 
 
 <div align="center">
 

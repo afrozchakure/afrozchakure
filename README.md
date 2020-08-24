@@ -62,7 +62,9 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 - [Support Vector Machines (SVMs)](https://towardsdatascience.com/support-vector-machines-svms-4bcccbd78369?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
-# <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="40"> Github Stats
+➡️ [more blog posts...](https://medium.com/@aaaanchakure)
+
+# Github Stats :D
 <p align="left">
 
 ![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)

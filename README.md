@@ -46,11 +46,11 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
   <img align="left" alt="afroz's Hackerrank" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/stackoverflow.png" draggable="false" />
 </a>
 <!-- Linkedin -->
-<img href="https://www.linkedin.com/in/afroz-chakure-489780168/" align="left" alt="afrozchakure | LinkedIn" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/linkedin.jpg" draggable="false"/>
+<a href="https://www.linkedin.com/in/afroz-chakure-489780168/"> <img align="left" alt="afrozchakure | LinkedIn" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/linkedin.jpg" draggable="false"/>
 <!-- Website -->
-<img href="https://hardtasksin.wordpress.com" align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='30px' draggable="false">
+<a href="https://hardtasksin.wordpress.com"> <img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='30px' draggable="false">
 <!-- Youtube -->
-<img href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" align="left" alt="afrozchakure | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" draggable="false"/><br><br>
+<a href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" > <img align="left" alt="afrozchakure | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" draggable="false"/><br><br>  
 
 # 🔥 Latest Blog Posts :
 <!-- Medium:START -->

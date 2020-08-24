@@ -52,7 +52,7 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 <!-- Youtube -->
 <img href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" align="left" alt="afrozchakure | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" draggable="false"/><br><br>
 
-# 🔥 Latest Blog Posts
+# 🔥 Latest Blog Posts :
 <!-- Medium:START -->
 - [Introduction to Docker](https://medium.com/swlh/introduction-to-docker-96aad5eabb30?source=rss-e956e8d58684------2)
 - [Driver-less cars](https://towardsdatascience.com/driver-less-cars-ec8c22b5187a?source=rss-e956e8d58684------2)

@@ -8,11 +8,11 @@
 
 </div>
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me 
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" draggable="false" > About me 
 - A Tech Blogger 👨‍💻 and Microsoft Learn Student Ambassador 👨‍🎓
 - Book Lover with interest in Artificial Intelligence 🤖📚  
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills :
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> My Skills :
 Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 
 - 🔭 Currently working on Deep Learning and Computer Vision 
@@ -23,7 +23,7 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 - 😄 Pronouns: **He / His / Him** 
 - ⚡ Fun fact: Can touch type @ 70+ WPM
 
-# <img src="https://media.giphy.com/media/T5nP7Nwu5FzMc/giphy.gif" width="50"> My Internet Profiles :  
+# <img src="https://media.giphy.com/media/T5nP7Nwu5FzMc/giphy.gif" width="40"> My Internet Profiles :  
 
 <!-- Github -->
 <a href="https://github.com/afrozchakure">
@@ -50,7 +50,7 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 <!-- Website -->
 <img href="https://hardtasksin.wordpress.com" align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='30px' draggable="false">
 <!-- Youtube -->
-<img href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" align="left" alt="afrozchakure | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" draggable="false"/><br>
+<img href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" align="left" alt="afrozchakure | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" draggable="false"/><br><br>
 
 # 🔥 Latest Blog Posts
 <!-- Medium:START -->
@@ -62,7 +62,7 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 - [Support Vector Machines (SVMs)](https://towardsdatascience.com/support-vector-machines-svms-4bcccbd78369?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
-# <img src="https://media.giphy.com/media/35B3Val0pYgtpScqsz/giphy.gif" width="50"> Github Stats
+# <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="40"> Github Stats
 <p align="left">
 
 ![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)

@@ -3,26 +3,14 @@
 <div align="center">
 
 [![Years Badge](https://badges.pufler.dev/years/afrozchakure?style=for-the-badge&logo)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/afrozchakure?style=for-the-badge&logo)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure?style=for-the-badge&logo)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/afrozchakure?color=blue&style=for-the-badge&logo)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Internity-Summer-Internship-Work?color=blueviolet&style=for-the-badge&logo)](https://badges.pufler.dev)
 
 </div>
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" draggable="false" > About me 
-- A Tech Blogger 👨‍💻 and Microsoft Learn Student Ambassador 👨‍🎓
-- Book Lover with interest in Artificial Intelligence 🤖📚  
-
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> My Skills :
-Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
-
-- 🔭 Currently working on Deep Learning and Computer Vision 
-- 🌱 Currently learning Tensorflow and Keras 
-- 👯 Looking to collaborate on any Machine Learning project
-- 💬 Ask me about my favourite Books to read 
-- 📫 How to reach me: aaaanchakure@gmail.com 
-- 😄 Pronouns: **He / His / Him** 
-- ⚡ Fun fact: Can touch type @ 70+ WPM
-
+| <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  About me</h1>        | <h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  My Skills :</h1>                                                                                                                                                                                                                                                    |
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - A Tech Blogger 👨‍💻 and Microsoft Learn Student Ambassador 👨‍🎓<br> - Book Lover with interest in Artificial Intelligence 🤖📚<br> |  Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖<br>  - 🔭 Currently working on Deep Learning and Computer Vision <br> - 🌱 Looking to collaborate on any Machine Learning project <br> - 💬 Ask me about my favourite Books to read <br> - 📫 How to reach me:  aaaanchakure@gmail.com <br> - ⚡ Fun fact: Can touch type @ 70+ WPM<br> |
 # <img src="https://media.giphy.com/media/T5nP7Nwu5FzMc/giphy.gif" width="40"> My Internet Profiles :  
 
 <!-- Github -->
@@ -69,3 +57,4 @@ Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖
 
 ![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)
 </p>
+

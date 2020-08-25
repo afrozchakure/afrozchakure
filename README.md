@@ -42,7 +42,7 @@
 <a href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" > <img align="left" alt="afrozchakure | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" draggable="false"/><br><br>  
 
 <div>
-<div style="float:left; width: 50%">
+<div style="float:left;width: 50%">
 
 # 🔥 Latest Blog Posts
 <!-- Medium:START -->
@@ -58,7 +58,7 @@
 
 </div>
 
-<div style="float:right; width:50%">
+<div style="float:right;width:50%">
 
 # Github Stats :D
 <p align="left">

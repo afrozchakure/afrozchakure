@@ -56,12 +56,12 @@
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)
 
-</di>
+</div>
 
 <div style="float:right; width:50%">
 
 # Github Stats :D
-<p align="right">
+<p align="left">
 
 ![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)
 </p>

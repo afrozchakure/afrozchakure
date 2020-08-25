@@ -41,9 +41,6 @@
 <!-- Youtube -->
 <a href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" > <img align="left" alt="afrozchakure | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" draggable="false"/><br><br>  
 
-<span>
-<span style="float:left;width: 25%;">
-
 # 🔥 Latest Blog Posts
 <!-- Medium:START -->
 - [Introduction to Docker](https://medium.com/swlh/introduction-to-docker-96aad5eabb30?source=rss-e956e8d58684------2)
@@ -56,21 +53,9 @@
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)
 
-</span>
-
-<span style="float:right;width:25%;">
-
 # Github Stats :D
 <p align="left">
 
 ![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)
 </p>
 
-</span>
-</span>
-
-
-|<h1>🔥 Latest Blog Posts</h1>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | <h1>Github Stats :D</h1>                                                                                                                                    
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
- <!-- Medium:START --><br>-[Introduction to Docker](https://medium.com/swlh/introduction-to-docker-96aad5eabb30?source=rss-e956e8d58684------2)<br>-[Driver-less cars](https://towardsdatascience.com/driver-less-cars-ec8c22b5187a?source=rss-e956e8d58684------2)<br>-[Introduction to Hadoop](https://towardsdatascience.com/introduction-to-hadoop-bd305512a28c?source=rss-e956e8d58684------2)<br>-[The Random forest is a non-continuous model which is represented by the horizontal lines in the…](https://medium.com/@aaaanchakure/the-random-forest-is-a-non-continous-model-which-is-represented-by-the-horizontal-lines-in-the-aadd49864ae2?source=rss-e956e8d58684------2)<br>-[Look for the Gold](https://medium.com/@aaaanchakure/look-for-the-gold-8bbe23757d64?source=rss-e956e8d58684------2)<br>-[Support Vector Machines (SVMs)](https://towardsdatascience.com/support-vector-machines-svms-4bcccbd78369?source=rss-e956e8d58684------2)<br><!-- Medium:END --><br><br><br>➡️ [more blog posts...](https://medium.com/@aaaanchakure)<br> | <p align="left"><br>![Afroz's github stats]<br>(https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)<br></p> 
-              

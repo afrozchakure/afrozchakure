@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Years Badge](https://badges.pufler.dev/years/afrozchakure)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/afrozchakure)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Internity-Summer-Internship-Work)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/afrozchakure?style=for-the-badge&logo)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/afrozchakure?style=for-the-badge&logo)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure?style=for-the-badge&logo)](https://badges.pufler.dev)
 
 </div>
 

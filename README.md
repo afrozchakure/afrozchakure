@@ -41,8 +41,8 @@
 <!-- Youtube -->
 <a href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" > <img align="left" alt="afrozchakure | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" draggable="false"/><br><br>  
 
-<div>
-<div style="float:left;width: 50%">
+<span>
+<span style="float:left;width: 25%;">
 
 # 🔥 Latest Blog Posts
 <!-- Medium:START -->
@@ -56,9 +56,9 @@
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)
 
-</div>
+</span>
 
-<div style="float:right;width:50%">
+<span style="float:right;width:25%;">
 
 # Github Stats :D
 <p align="left">
@@ -66,5 +66,5 @@
 ![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)
 </p>
 
-</div>
-</div>
+</span>
+</span>

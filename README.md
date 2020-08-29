@@ -5,6 +5,7 @@
 [![Years Badge](https://badges.pufler.dev/years/afrozchakure?style=for-the-badge&logo)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/afrozchakure?color=blue&style=for-the-badge&logo)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Internity-Summer-Internship-Work?color=blueviolet&style=for-the-badge&logo)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/afrozchakure?color=orange&style=for-the-badge)](https://badges.pufler.dev)
 
 </div>
 

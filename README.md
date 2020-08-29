@@ -10,7 +10,7 @@
 
 | <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  About me</h1>        | <h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  My Skills </h1>                                                                                                                                                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - A Tech Blogger 👨‍💻 and Microsoft Learn Student Ambassador 👨‍🎓<br> - Book Lover with interest in Artificial Intelligence 🤖📚<br> |  Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖<br>  - 🔭 Currently working on Deep Learning and Computer Vision <br> - 🌱 Looking to collaborate on any Machine Learning project <br> - 💬 Ask me about my favourite Books to read <br> - 📫 How to reach me:  aaaanchakure@gmail.com <br> - ⚡ Fun fact: Can touch type @ 70+ WPM<br> |
+| - Tech Blogger 👨‍💻 and Microsoft Learn Student Ambassador 👨‍🎓<br> - Book Lover with interest in Artificial Intelligence 🤖📚<br> |  Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖<br>  - 🔭 Currently working on Deep Learning and Computer Vision <br> - 🌱 Looking to collaborate on any Machine Learning project <br> - 💬 Ask me about my favourite Books to read <br> - 📫 How to reach me:  aaaanchakure@gmail.com <br> - ⚡ Fun fact: Can touch type @ 70+ WPM<br> |
 
 # 🔥 Latest Blog Posts
 <!-- Medium:START -->
@@ -24,6 +24,11 @@
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)
 
+# Github Stats :D
+<p align="left">
+
+![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)
+</p>
 
 # <img src="https://media.giphy.com/media/T5nP7Nwu5FzMc/giphy.gif" width="40"> My Internet Profiles   
 
@@ -53,10 +58,4 @@
 <a href="https://hardtasksin.wordpress.com"> <img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='30px' draggable="false">
 <!-- Youtube -->
 <a href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" > <img align="left" alt="afrozchakure | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" draggable="false"/><br><br>  
-
-# Github Stats :D
-<p align="left">
-
-![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)
-</p>
 

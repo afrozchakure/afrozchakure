@@ -1,11 +1,12 @@
 # Hey <img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px">, I'm [Afroz!](https://github.com/afrozchakure) 
 
-<div align="center">
+<div align="Left">
 
-[![Years Badge](https://badges.pufler.dev/years/afrozchakure?style=for-the-badge&logo)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/afrozchakure?color=blue&style=for-the-badge&logo)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Internity-Summer-Internship-Work?color=blueviolet&style=for-the-badge&logo)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/afrozchakure?color=orange&style=for-the-badge)](https://badges.pufler.dev)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/afrozchakure?style=social)
+![GitHub followers](https://img.shields.io/github/followers/afrozchakure?style=social)
+[![Medium](https://github.com/afrozchakure/afrozchakure/blob/master/badges/medium.svg)](https://medium.com/@aaaanchakure)
+[![Stackoverflow](https://github.com/afrozchakure/afrozchakure/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/10404589/afroz-chakure)
 
 </div>
 
@@ -31,16 +32,8 @@
 ![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)
 </p>
 
-# <img src="https://media.giphy.com/media/T5nP7Nwu5FzMc/giphy.gif" width="40"> My Internet Profiles   
+# <img src="https://media.giphy.com/media/T5nP7Nwu5FzMc/giphy.gif" width="40"> My Profiles 💖
 
-<!-- Github -->
-<a href="https://github.com/afrozchakure">
-  <img align="left" alt="afrozchakure's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
-</a> 
-<!-- Medium -->
-<a href="https://medium.com/@aaaanchakure">
-  <img align="left" alt="afrozchakure's Medium" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/medium-brands.svg" draggable="false" />
-</a> 
 <!-- Hackerrank -->
 <a href="https://www.hackerrank.com/aaaanchakure?hr_r=1">
   <img align="left" alt="afroz's Hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
@@ -49,14 +42,10 @@
 <a href="https://hackernoon.com/u/afroz-chakure">
   <img align="left" alt="afroz's Hackerrank" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/hackernoon.jpeg" draggable="false" />
 </a>
-<!-- Stack Overflow -->
-<a href="https://stackoverflow.com/users/10404589/afroz-chakure">
-  <img align="left" alt="afroz's Hackerrank" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/stackoverflow.png" draggable="false" />
-</a>
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/afroz-chakure-489780168/"> <img align="left" alt="afrozchakure | LinkedIn" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/linkedin.jpg" draggable="false"/>
 <!-- Website -->
 <a href="https://hardtasksin.wordpress.com"> <img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='30px' draggable="false">
 <!-- Youtube -->
-<a href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" > <img align="left" alt="afrozchakure | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" draggable="false"/><br><br>  
+<a href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" > <img align="left" alt="afrozchakure | YouTube" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/linkedin.jpg" draggable="false"/><br><br>  
 

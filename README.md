@@ -29,7 +29,7 @@
 # Github Stats :D
 <p align="left">
 
-![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&show_icons=true&theme=radical)
+![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&count_private=true&show_icons=true&theme=graywhite&line_height=27)
 </p>
 
 # <img src="https://media.giphy.com/media/T5nP7Nwu5FzMc/giphy.gif" width="40"> My Profiles 💖
@@ -47,5 +47,5 @@
 <!-- Website -->
 <a href="https://hardtasksin.wordpress.com"> <img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='30px' draggable="false">
 <!-- Youtube -->
-<a href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" > <img align="left" alt="afrozchakure | YouTube" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/linkedin.jpg" draggable="false"/><br><br>  
+<a href="https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber" > <img align="left" alt="afrozchakure | YouTube" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/youtube.png" draggable="false"/><br><br>  
 

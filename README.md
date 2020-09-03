@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px">, I'm [Afroz!](https://github.com/afrozchakure) 
+<h3 align='center'> Hey <img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px">, I'm Afroz Chakure</h3>
 
 <div align="Left">
 
@@ -9,11 +9,11 @@
 
 </div>
 
-| <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  About me</h1>        | <h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  My Skills </h1>                                                                                                                                                                                                                                                    |
+| <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  About me</h3>        | <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  My Skills </h3>                                                                                                                                                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | * Tech Blogger 👨‍💻 and Microsoft Learn Student Ambassador 👨‍🎓<br> * Book Lover with interest in Artificial Intelligence 🤖📚<br> |  Python 🐍 / Machine Learning 💻 / Deep Learning / JavaScript / Blogging 💖<br>  * 🔭 Currently working on Deep Learning and Computer Vision <br> * 🌱 Looking to collaborate on any Machine Learning project <br> * 💬 Ask me about my favourite Books to read <br> * 📫 How to reach me:  aaaanchakure@gmail.com <br> * ⚡ Fun fact: Can touch type @ 70+ WPM<br> |
 
-# 🔥 Latest Blog Posts
+### 🔥 Latest Blog Posts
 <!-- Medium:START -->
 - [Introduction to Docker](https://medium.com/swlh/introduction-to-docker-96aad5eabb30?source=rss-e956e8d58684------2)
 - [Driver-less cars](https://towardsdatascience.com/driver-less-cars-ec8c22b5187a?source=rss-e956e8d58684------2)
@@ -25,13 +25,13 @@
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)
 
-# 😎 Github Stats 
+### 😎 Github Stats 
 <p align="left">
 
 ![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&count_private=true&show_icons=true&theme=graywhite&line_height=27)
 </p>
 
-# <img src="https://media.giphy.com/media/T5nP7Nwu5FzMc/giphy.gif" width="40">  💖 Personal Website & Internet Profiles 
+### 💖 Personal Website & Internet Profiles 
 <div align="Center">
 <!-- Hackerrank -->
 <a href="https://www.hackerrank.com/aaaanchakure?hr_r=1">

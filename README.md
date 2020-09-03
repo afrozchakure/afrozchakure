@@ -3,9 +3,9 @@
 <div align="Left">
 
 ![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
-[![Medium](https://github.com/afrozchakure/afrozchakure/blob/master/badges/medium.svg?style=for-the-badge)](https://medium.com/@aaaanchakure)
-[![Stackoverflow](https://github.com/afrozchakure/afrozchakure/blob/master/badges/stackoverflow.svg?style=for-the-badge)](https://stackoverflow.com/users/10404589/afroz-chakure)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaaanchakure)
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber)
+[![Stackoverflow](https://img.shields.io/badge/-Stack%20Overflow-important?style=for-the-badge)](https://stackoverflow.com/users/10404589/afroz-chakure)
 
 </div>
 
@@ -25,14 +25,14 @@
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)
 
-# Github Stats :D
+# 😎 Github Stats 
 <p align="left">
 
 ![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&count_private=true&show_icons=true&theme=graywhite&line_height=27)
 </p>
 
-# <img src="https://media.giphy.com/media/T5nP7Nwu5FzMc/giphy.gif" width="40"> My Profiles 💖
-<div align='left'>
+# <img src="https://media.giphy.com/media/T5nP7Nwu5FzMc/giphy.gif" width="40">  💖 Personal Website & Internet Profiles 
+<div align="Center">
 <!-- Hackerrank -->
 <a href="https://www.hackerrank.com/aaaanchakure?hr_r=1">
   <img align="left" alt="afroz's Hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
@@ -42,5 +42,5 @@
   <img align="left" alt="afroz's Hackerrank" width="30px" src="https://github.com/afrozchakure/afrozchakure/blob/master/logos/hackernoon.jpeg" draggable="false" />
 </a>
 <!-- Website -->
-<a href="https://hardtasksin.wordpress.com"> <img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='30px' draggable="false">
-  </div>
+<a href="https://hardtasksin.wordpress.com"> <img align="left" src='https://github.com/afrozchakure/afrozchakure/blob/master/logos/hti.png' alt='website' width='30px' draggable="false">
+</div>

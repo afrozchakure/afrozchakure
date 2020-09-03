@@ -1,13 +1,13 @@
-<h3 align='center'> Hey <img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px">, I'm Afroz Chakure</h3>
+<h3 align='center'> Hey <img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px">, I'm Afroz Chakure</h3><hr>
 
-<div align="Left">
+<p style="text-align: center;">
 
 ![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaaanchakure)
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber)
 [![Stackoverflow](https://img.shields.io/badge/-Stack%20Overflow-important?style=for-the-badge)](https://stackoverflow.com/users/10404589/afroz-chakure)
 
-</div>
+</p>
 
 | <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  About me</h3>        | <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  My Skills </h3>                                                                                                                                                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

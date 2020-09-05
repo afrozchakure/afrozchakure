@@ -14,20 +14,18 @@
 
 
 <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  About me</h3> 
-<div align='center'>
 * 📚 Technical <a href="https://hardtasksin.wordpress.com"> Blogger </a> 👨‍💻 and <a href="https://studentambassadors.microsoft.com/en-US/profile/34531">Beta - Microsoft Learn Student Ambassador </a>👨‍🎓<br> * 🤖 Voracious Reader with interest in Artificial Intelligence (A.I.) <br>
 * 🔭 Currently working on Deep Learning and Computer Vision <br> * 📫 How to reach me:  aaaanchakure@gmail.com <br> * ⚡ Fun fact: Written blogs 20+ blogs for more than 5 publications :<br>
-<p align='center'>1.  <a href="https://towardsdatascience.com/@aaaanchakure">Towards Data Science</a><br>
+<p align='left'>1.  <a href="https://towardsdatascience.com/@aaaanchakure">Towards Data Science</a><br>
 2. <a href="https://auth.geeksforgeeks.org/user/aaaanchakure/articles">GeeksforGeeks</a><br>
 3. <a href="https://hackernoon.com/u/afroz-chakure">Hacker Noon</a><br>
 4. <a href="https://medium.com/datadriveninvestor/types-of-linear-regression-89f3bef3a0c7">Data Driven Investor</a><br> 
 5.<a href="https://medium.com/swlh/introduction-to-machine-learning-different-types-of-machine-learning-algorithms-f710bb81f5ce">The Startup</a><br>
 </p>
-</div>
 
 <!-- My Skills -->
-<div align='center'>
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills </h3>     
+<div align='center'>
 
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" width=80px/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width= 110px/>
@@ -37,7 +35,7 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" width=80px/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" width=80px/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" width=70px/>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"width=90px/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" width=90px>
 
 </div> 
 

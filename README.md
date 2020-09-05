@@ -4,11 +4,11 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afroz-chakure-489780168/)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaaanchakure)
-[![HackerNoon](https://img.shields.io/badge/Hacker%20Noon-%.svg?&style=for-the-badge&logo=hackernoon&logoColor=white)](https://hackernoon.com/u/afroz-chakure)
+[![HackerNoon](https://img.shields.io/badge/Hacker%20Noon-%23239120.svg?&style=for-the-badge&logo=hackernoon&logoColor=white)](https://hackernoon.com/u/afroz-chakure)
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber)
 [![Stackoverflow](https://img.shields.io/badge/Stack%20Overflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10404589/afroz-chakure)
 [![Wordpress](https://img.shields.io/badge/Wordpress-%230077B5.svg?&style=for-the-badge&logo=wordpress&logoColor=white)](https://hardtasksin.wordpress.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%blueblue.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aaaanchakure?hr_r=1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aaaanchakure?hr_r=1)
 
 
 </p>
@@ -23,7 +23,22 @@
 5.<a href="https://medium.com/swlh/introduction-to-machine-learning-different-types-of-machine-learning-algorithms-f710bb81f5ce">The Startup</a><br>
 </p>
 
-<h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  My Skills </h3>     
+<!-- My Skills -->
+<h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills </h3>     
+
+<!-- [![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aaaanchakure?hr_r=1)
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+ -->
+
+<div>
+
 <!-- Python -->
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
 <!-- JavaScript -->
@@ -38,6 +53,8 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" width=60px/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" width=60px/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" width=55px/>
+
+</div>
 
 ### 🔥 Latest Blog Posts
 <!-- Medium:START -->

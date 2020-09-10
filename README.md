@@ -22,9 +22,19 @@
 ✔️ 🤖 Voracious Reader with interest in Artificial Intelligence   
 ✔️ 🔭 Currently working on Deep Learning and Computer Vision   
 ✔️ 📫 How to reach me:  aaaanchakure@gmail.com   
-✔️ ⚡ Fun fact: Have written 20+ blogs for more than 5 publications: <a href="https://towardsdatascience.com/@aaaanchakure">Towards Data Science</a>, <a href="https://auth.geeksforgeeks.org/user/aaaanchakure/articles">GeeksforGeeks</a>, <a href="https://hackernoon.com/u/afroz-chakure">Hacker Noon</a>, <a href="https://medium.com/datadriveninvestor/types-of-linear-regression-89f3bef3a0c7">Data Driven Investor</a> and <a href="https://medium.com/swlh/introduction-to-machine-learning-different-types-of-machine-learning-algorithms-f710bb81f5ce">The Startup</a>
+✔️ ⚡ Fun fact: Written 20+ blogs for 5 publications including: <a href="https://towardsdatascience.com/@aaaanchakure">Towards Data Science</a>, <a href="https://auth.geeksforgeeks.org/user/aaaanchakure/articles">GeeksforGeeks</a> and <a href="https://hackernoon.com/u/afroz-chakure">HackerNoon.</a>
 
 </div>
+
+<div align='center'>
+
+### 🚨 Vote for me: 
+
+<a href="https://noonies.tech/award/hacker-noon-contributor-of-the-year-data-science">Hacker Noon Contributor of the Year (Nominee) - DATA SCIENCE</a>
+
+</div>
+
+
 
 <hr>
 

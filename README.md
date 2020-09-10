@@ -13,19 +13,25 @@
 </div>
 
 
-<h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  About me</h3> 
-* 📚 Technical <a href="https://hardtasksin.wordpress.com"> Blogger </a> 👨‍💻 and <a href="https://studentambassadors.microsoft.com/en-US/profile/34531">Beta - Microsoft Learn Student Ambassador </a>👨‍🎓<br> * 🤖 Voracious Reader with interest in Artificial Intelligence (A.I.) <br>
-* 🔭 Currently working on Deep Learning and Computer Vision <br> * 📫 How to reach me:  aaaanchakure@gmail.com <br> * ⚡ Fun fact: Written blogs 20+ blogs for more than 5 publications :<br>
-<p align='left'>1.  <a href="https://towardsdatascience.com/@aaaanchakure">Towards Data Science</a><br>
-2. <a href="https://auth.geeksforgeeks.org/user/aaaanchakure/articles">GeeksforGeeks</a><br>
-3. <a href="https://hackernoon.com/u/afroz-chakure">Hacker Noon</a><br>
-4. <a href="https://medium.com/datadriveninvestor/types-of-linear-regression-89f3bef3a0c7">Data Driven Investor</a><br> 
-5.<a href="https://medium.com/swlh/introduction-to-machine-learning-different-types-of-machine-learning-algorithms-f710bb81f5ce">The Startup</a><br>
-</p>
+<h3 align='center'><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  About me 
+</h3>
+
+<div style='padding-left: 50px'>
+
+✔️ 📚 Technical <a href="https://hardtasksin.wordpress.com"> Blogger </a> 👨‍💻 and <a href="https://studentambassadors.microsoft.com/en-US/profile/34531">Beta - Microsoft Learn Student Ambassador </a>👨‍🎓   
+✔️ 🤖 Voracious Reader with interest in Artificial Intelligence   
+✔️ 🔭 Currently working on Deep Learning and Computer Vision   
+✔️ 📫 How to reach me:  aaaanchakure@gmail.com   
+✔️ ⚡ Fun fact: Have written 20+ blogs for more than 5 publications: <a href="https://towardsdatascience.com/@aaaanchakure">Towards Data Science</a>, <a href="https://auth.geeksforgeeks.org/user/aaaanchakure/articles">GeeksforGeeks</a>, <a href="https://hackernoon.com/u/afroz-chakure">Hacker Noon</a>, <a href="https://medium.com/datadriveninvestor/types-of-linear-regression-89f3bef3a0c7">Data Driven Investor</a> and <a href="https://medium.com/swlh/introduction-to-machine-learning-different-types-of-machine-learning-algorithms-f710bb81f5ce">The Startup</a>
+
+</div>
+
+<hr>
+
+<div align='center'>
 
 <!-- My Skills -->
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills </h3>     
-<div align='center'>
 
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" width=80px/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width= 110px/>
@@ -41,7 +47,13 @@
 
 <hr>
 
+<div align='center'>
+
 ### 🔥 Latest Blog Posts
+
+</div>
+
+<div style="padding-left: 50px">
 
 <!-- Medium:START -->
 - [Introduction to Docker](https://medium.com/swlh/introduction-to-docker-96aad5eabb30?source=rss-e956e8d58684------2)
@@ -54,9 +66,14 @@
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)
 
-### 😎 Github Stats 
+</div>
+
+<hr>
 
 <div align='center'>
+
+### 😎 Github Stats 
+
 
 ![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&count_private=true&show_icons=true&theme=graywhite&line_height=27)
 

@@ -35,9 +35,6 @@
 </div>
 
 
-
-<hr>
-
 <div align='center'>
 
 <!-- My Skills -->
@@ -55,7 +52,6 @@
 
 </div> 
 
-<hr>
 
 <div align='center'>
 
@@ -77,8 +73,6 @@
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)
 
 </div>
-
-<hr>
 
 <div align='center'>
 

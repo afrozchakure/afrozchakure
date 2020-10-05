@@ -78,9 +78,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#51](https://github.com/sourcerer-io/hall-of-fame/issues/51) in [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)
-2. 💪 Opened PR [#50](https://github.com/sourcerer-io/hall-of-fame/pull/50) in [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)
-3. 🎉 Merged PR [#9](https://github.com/afrozchakure/Aadhar-OCR/pull/9) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
-4. 💪 Opened PR [#9](https://github.com/afrozchakure/Aadhar-OCR/pull/9) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
-5. 🎉 Merged PR [#3](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/3) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+1. ❗️ Opened issue [#303](https://github.com/EddieJaoudeCommunity/support/issues/303) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. ❗️ Opened issue [#51](https://github.com/sourcerer-io/hall-of-fame/issues/51) in [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)
+3. 💪 Opened PR [#50](https://github.com/sourcerer-io/hall-of-fame/pull/50) in [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)
+4. 🎉 Merged PR [#9](https://github.com/afrozchakure/Aadhar-OCR/pull/9) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
+5. 💪 Opened PR [#9](https://github.com/afrozchakure/Aadhar-OCR/pull/9) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
 <!--END_SECTION:activity-->

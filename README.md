@@ -11,21 +11,20 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aaaanchakure?hr_r=1)
 
 </div>
-<h3 align='center'><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  About me 
-</h3>
 
 <div style='padding-left: 50px'>
 
 ✔️ 📚 Technical <a href="https://hardtasksin.wordpress.com"> Blogger </a> 👨‍💻 and <a href="https://studentambassadors.microsoft.com/en-US/profile/34531">Beta - Microsoft Learn Student Ambassador </a>👨‍🎓   
-✔️ 🤖 Voracious Reader with interest in Artificial Intelligence   
-✔️ 📫 How to reach me:  aaaanchakure@gmail.com   
-✔️ ⚡ Fun fact: Written 20+ blogs for 5 publications including: <a href="https://towardsdatascience.com/@aaaanchakure">Towards Data Science</a>, <a href="https://auth.geeksforgeeks.org/user/aaaanchakure/articles">GeeksforGeeks</a> and <a href="https://hackernoon.com/u/afroz-chakure">HackerNoon.</a>
+✔️ 🤖 Voracious Reader and Machine Learning lover  
+✔️ 📫 How to reach me: aaaanchakure@gmail.com  
+✔️ ⚡ Fun fact: Have 20+ published blogs for publications like: <a href="https://towardsdatascience.com/@aaaanchakure">Towards Data Science</a>, <a href="https://auth.geeksforgeeks.org/user/aaaanchakure/articles">GeeksforGeeks</a> and <a href="https://hackernoon.com/u/afroz-chakure">HackerNoon.</a>
 
 </div>
 
 <div align='center'>
 
-### 🚨 Vote for me: 
+<h3 align='center'><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  Vote for me : 
+</h3>
 
 <a href="https://noonies.tech/award/hacker-noon-contributor-of-the-year-data-science">Hacker Noon Contributor of the Year (Nominee) - DATA SCIENCE</a>
 
@@ -34,8 +33,7 @@
 
 <div align='center'>
 
-<!-- My Skills -->
-<h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills </h3>     
+<!-- My Skills -->    
 
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" width=80px/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width= 110px/>
@@ -52,8 +50,7 @@
 
 <div align='center'>
 
-### 🔥 Latest Blog Posts
-
+<h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Latest Blog Posts </h3> 
 </div>
 
 <div style="padding-left: 50px">

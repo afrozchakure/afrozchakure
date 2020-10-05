@@ -1,4 +1,4 @@
-<h2 align='center'><img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px"> I'm Afroz Chakure, Python Developer 🐍</h2><hr>
+<h2 align='center'><img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px"> I'm Afroz Chakure, Open-Source Developer 🐍</h2>
 
 <div align='center'>
 
@@ -11,8 +11,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aaaanchakure?hr_r=1)
 
 </div>
-
-
 <h3 align='center'><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  About me 
 </h3>
 
@@ -20,7 +18,6 @@
 
 ✔️ 📚 Technical <a href="https://hardtasksin.wordpress.com"> Blogger </a> 👨‍💻 and <a href="https://studentambassadors.microsoft.com/en-US/profile/34531">Beta - Microsoft Learn Student Ambassador </a>👨‍🎓   
 ✔️ 🤖 Voracious Reader with interest in Artificial Intelligence   
-✔️ 🔭 Currently working on Deep Learning and Computer Vision   
 ✔️ 📫 How to reach me:  aaaanchakure@gmail.com   
 ✔️ ⚡ Fun fact: Written 20+ blogs for 5 publications including: <a href="https://towardsdatascience.com/@aaaanchakure">Towards Data Science</a>, <a href="https://auth.geeksforgeeks.org/user/aaaanchakure/articles">GeeksforGeeks</a> and <a href="https://hackernoon.com/u/afroz-chakure">HackerNoon.</a>
 

@@ -23,7 +23,7 @@
 
 <div align='center'>
 
-<h3 align='center'><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  Vote for me : 
+<h3 align='center'><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  Vote for me  🚨
 </h3>
 
 <a href="https://noonies.tech/award/hacker-noon-contributor-of-the-year-data-science">Hacker Noon Contributor of the Year (Nominee) - DATA SCIENCE</a>

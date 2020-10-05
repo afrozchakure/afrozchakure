@@ -82,3 +82,5 @@
 ![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&count_private=true&show_icons=true&theme=graywhite&line_height=27)
 
 </div>
+
+<!--START_SECTION:activity-->

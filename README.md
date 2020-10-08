@@ -78,9 +78,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/google/latexify_py/issues/21) in [google/latexify_py](https://github.com/google/latexify_py)
-2. ❗️ Opened issue [#303](https://github.com/EddieJaoudeCommunity/support/issues/303) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. ❗️ Opened issue [#51](https://github.com/sourcerer-io/hall-of-fame/issues/51) in [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)
-4. 💪 Opened PR [#50](https://github.com/sourcerer-io/hall-of-fame/pull/50) in [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)
-5. 🎉 Merged PR [#9](https://github.com/afrozchakure/Aadhar-OCR/pull/9) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
+1. 🗣 Commented on [#21280](https://github.com/firstcontributions/first-contributions/issues/21280) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 🗣 Commented on [#21](https://github.com/google/latexify_py/issues/21) in [google/latexify_py](https://github.com/google/latexify_py)
+3. ❗️ Opened issue [#303](https://github.com/EddieJaoudeCommunity/support/issues/303) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. ❗️ Opened issue [#51](https://github.com/sourcerer-io/hall-of-fame/issues/51) in [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)
+5. 💪 Opened PR [#50](https://github.com/sourcerer-io/hall-of-fame/pull/50) in [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)
 <!--END_SECTION:activity-->

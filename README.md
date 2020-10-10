@@ -78,9 +78,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21280](https://github.com/firstcontributions/first-contributions/issues/21280) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. 🗣 Commented on [#21](https://github.com/google/latexify_py/issues/21) in [google/latexify_py](https://github.com/google/latexify_py)
-3. ❗️ Opened issue [#303](https://github.com/EddieJaoudeCommunity/support/issues/303) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. ❗️ Opened issue [#51](https://github.com/sourcerer-io/hall-of-fame/issues/51) in [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)
-5. 💪 Opened PR [#50](https://github.com/sourcerer-io/hall-of-fame/pull/50) in [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)
+1. 🗣 Commented on [#2](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/2) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+2. 🗣 Commented on [#21280](https://github.com/firstcontributions/first-contributions/issues/21280) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+3. 🗣 Commented on [#21](https://github.com/google/latexify_py/issues/21) in [google/latexify_py](https://github.com/google/latexify_py)
+4. ❗️ Opened issue [#303](https://github.com/EddieJaoudeCommunity/support/issues/303) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Opened issue [#51](https://github.com/sourcerer-io/hall-of-fame/issues/51) in [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)
 <!--END_SECTION:activity-->

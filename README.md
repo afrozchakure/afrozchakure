@@ -78,9 +78,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#47](https://github.com/Asiatik/Join_Asiatik/issues/47) in [Asiatik/Join_Asiatik](https://github.com/Asiatik/Join_Asiatik)
-2. 🗣 Commented on [#2](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/2) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-3. 🗣 Commented on [#21280](https://github.com/firstcontributions/first-contributions/issues/21280) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. 🗣 Commented on [#21](https://github.com/google/latexify_py/issues/21) in [google/latexify_py](https://github.com/google/latexify_py)
-5. ❗️ Opened issue [#303](https://github.com/EddieJaoudeCommunity/support/issues/303) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🎉 Merged PR [#2](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/2) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+2. ❗️ Opened issue [#47](https://github.com/Asiatik/Join_Asiatik/issues/47) in [Asiatik/Join_Asiatik](https://github.com/Asiatik/Join_Asiatik)
+3. 🗣 Commented on [#2](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/2) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+4. 🗣 Commented on [#21280](https://github.com/firstcontributions/first-contributions/issues/21280) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+5. 🗣 Commented on [#21](https://github.com/google/latexify_py/issues/21) in [google/latexify_py](https://github.com/google/latexify_py)
 <!--END_SECTION:activity-->

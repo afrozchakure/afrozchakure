@@ -78,9 +78,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/2) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-2. 🎉 Merged PR [#2](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/2) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-3. ❗️ Opened issue [#47](https://github.com/Asiatik/Join_Asiatik/issues/47) in [Asiatik/Join_Asiatik](https://github.com/Asiatik/Join_Asiatik)
+1. 🗣 Commented on [#5](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/5) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+2. 🗣 Commented on [#4](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/4) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+3. 🗣 Commented on [#5](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/5) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 4. 🗣 Commented on [#2](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/2) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-5. 🗣 Commented on [#21280](https://github.com/firstcontributions/first-contributions/issues/21280) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+5. 🎉 Merged PR [#2](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/2) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 <!--END_SECTION:activity-->

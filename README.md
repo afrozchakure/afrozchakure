@@ -78,9 +78,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/12) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-2. 🗣 Commented on [#10](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/10) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-3. 🎉 Merged PR [#4](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/4) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-4. 🗣 Commented on [#4](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/4) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-5. 🗣 Commented on [#10](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/10) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+1. 🎉 Merged PR [#16](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/16) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+2. 🗣 Commented on [#1](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/1) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+3. 🗣 Commented on [#8](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/8) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+4. 🎉 Merged PR [#15](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/15) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+5. 🗣 Commented on [#4](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/4) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 <!--END_SECTION:activity-->

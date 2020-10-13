@@ -79,9 +79,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/17) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-2. ❗️ Closed issue [#11](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/11) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+1. 🗣 Commented on [#34](https://github.com/google/latexify_py/issues/34) in [google/latexify_py](https://github.com/google/latexify_py)
+2. 💪 Opened PR [#34](https://github.com/google/latexify_py/pull/34) in [google/latexify_py](https://github.com/google/latexify_py)
 3. 🗣 Commented on [#17](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/17) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-4. 🎉 Merged PR [#18](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/18) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+4. ❗️ Closed issue [#11](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/11) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 5. 🗣 Commented on [#17](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/17) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 <!--END_SECTION:activity-->

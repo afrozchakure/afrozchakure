@@ -79,9 +79,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/google/latexify_py/issues/34) in [google/latexify_py](https://github.com/google/latexify_py)
-2. 💪 Opened PR [#34](https://github.com/google/latexify_py/pull/34) in [google/latexify_py](https://github.com/google/latexify_py)
-3. 🗣 Commented on [#17](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/17) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-4. ❗️ Closed issue [#11](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/11) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+1. 💪 Opened PR [#4889](https://github.com/google/web-stories-wp/pull/4889) in [google/web-stories-wp](https://github.com/google/web-stories-wp)
+2. ❗️ Opened issue [#4888](https://github.com/google/web-stories-wp/issues/4888) in [google/web-stories-wp](https://github.com/google/web-stories-wp)
+3. 🗣 Commented on [#34](https://github.com/google/latexify_py/issues/34) in [google/latexify_py](https://github.com/google/latexify_py)
+4. 💪 Opened PR [#34](https://github.com/google/latexify_py/pull/34) in [google/latexify_py](https://github.com/google/latexify_py)
 5. 🗣 Commented on [#17](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/17) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 <!--END_SECTION:activity-->

@@ -79,9 +79,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/19) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-2. 🗣 Commented on [#9](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/9) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-3. 🎉 Merged PR [#9](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/9) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-4. 💪 Opened PR [#4889](https://github.com/google/web-stories-wp/pull/4889) in [google/web-stories-wp](https://github.com/google/web-stories-wp)
-5. ❗️ Opened issue [#4888](https://github.com/google/web-stories-wp/issues/4888) in [google/web-stories-wp](https://github.com/google/web-stories-wp)
+1. 🎉 Merged PR [#20](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/20) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+2. 🎉 Merged PR [#19](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/19) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+3. 🗣 Commented on [#9](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/9) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+4. 🎉 Merged PR [#9](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/9) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+5. 💪 Opened PR [#4889](https://github.com/google/web-stories-wp/pull/4889) in [google/web-stories-wp](https://github.com/google/web-stories-wp)
 <!--END_SECTION:activity-->

@@ -80,9 +80,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/24) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-2. 🎉 Merged PR [#24](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/24) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-3. 🗣 Commented on [#25](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/25) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-4. 🎉 Merged PR [#25](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/25) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-5. 🗣 Commented on [#8](https://github.com/ksdfg/Hermes/issues/8) in [ksdfg/Hermes](https://github.com/ksdfg/Hermes)
+1. 💪 Opened PR [#2](https://github.com/afrozchakure/afrozchakure/pull/2) in [afrozchakure/afrozchakure](https://github.com/afrozchakure/afrozchakure)
+2. 🗣 Commented on [#24](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/24) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+3. 🎉 Merged PR [#24](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/24) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+4. 🗣 Commented on [#25](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/25) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+5. 🎉 Merged PR [#25](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/25) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 <!--END_SECTION:activity-->

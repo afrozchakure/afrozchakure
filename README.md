@@ -11,29 +11,34 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aaaanchakure?hr_r=1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%13580900.svg?&style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/afrozchakure/)
 [![DockerHub](https://img.shields.io/badge/Docker%20Hub-%230077B5.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/afrozchakure)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%23FF5722.svg?&style=for-the-badge&logo=Google&logoColor=white)](https://scholar.google.co.in/citations?hl=en&user=q72txr0AAAAJ)
 
 </div>
 
-<div style='padding-left: 50px'>
+<div>
 
-✔️ 📚 Technical <a href="https://hardtasksin.wordpress.com"> Blogger </a> 👨‍💻 and <a href="https://studentambassadors.microsoft.com/en-US/profile/34531">Beta - Microsoft Learn Student Ambassador </a>👨‍🎓   
-✔️ 🤖 Voracious Reader and Machine Learning lover  
-✔️ 📫 How to reach me: aaaanchakure@gmail.com  
-✔️ ⚡ Fun fact: Have 20+ published blogs for publications like: <a href="https://towardsdatascience.com/@aaaanchakure">Towards Data Science</a>, <a href="https://auth.geeksforgeeks.org/user/aaaanchakure/articles">GeeksforGeeks</a> and <a href="https://hackernoon.com/u/afroz-chakure">HackerNoon.</a>
-
-</div>
-
-<div align='center'>
-
-<h3 align='center'><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  Vote for me  🚨
+<div align='left'>
+  
+<h3 align='left'><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  About Me
 </h3>
-
-<a href="https://noonies.tech/award/hacker-noon-contributor-of-the-year-data-science">Hacker Noon Contributor of the Year (Nominee) - DATA SCIENCE</a>
+  
+✨ 📚 Technical <a href="https://hardtasksin.wordpress.com"> Blogger </a> 👨‍💻 and <a href="https://studentambassadors.microsoft.com/en-US/profile/34531">Beta - Microsoft Learn Student Ambassador </a>👨‍🎓   
+✨ 📫 How to reach me: aaaanchakure@gmail.com  
+✨ 20+ published blogs for publications like: <a href="https://towardsdatascience.com/@aaaanchakure">Towards Data Science</a>, <a href="https://auth.geeksforgeeks.org/user/aaaanchakure/articles">GeeksforGeeks</a> and <a href="https://hackernoon.com/u/afroz-chakure">HackerNoon.</a>  
+✨ Noonies Award Winner 2020: <a href="https://noonies.tech/award/hacker-noon-contributor-of-the-year-data-science">Hacker Noon Contributor of the Year - DATA SCIENCE</a>
 
 </div>
 
+<div align='right'>
 
-<div align='center'>
+### 😎 Github Stats 
+
+![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&count_private=true&show_icons=true&theme=graywhite&line_height=27)
+
+</div>
+</div>
+
+
 
 <!-- My Skills -->    
 
@@ -67,15 +72,6 @@
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)
-
-</div>
-
-<div align='center'>
-
-### 😎 Github Stats 
-
-
-![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&count_private=true&show_icons=true&theme=graywhite&line_height=27)
 
 </div>
 

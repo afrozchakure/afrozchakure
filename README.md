@@ -80,9 +80,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/26) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+1. 🎉 Merged PR [#27](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/27) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 2. 🗣 Commented on [#26](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/26) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-3. 🎉 Merged PR [#10](https://github.com/afrozchakure/Aadhar-OCR/pull/10) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
-4. 💪 Opened PR [#2](https://github.com/afrozchakure/afrozchakure/pull/2) in [afrozchakure/afrozchakure](https://github.com/afrozchakure/afrozchakure)
-5. 🗣 Commented on [#24](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/24) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+3. 🎉 Merged PR [#26](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/26) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+4. 🗣 Commented on [#26](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/26) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+5. 🎉 Merged PR [#10](https://github.com/afrozchakure/Aadhar-OCR/pull/10) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
 <!--END_SECTION:activity-->

@@ -80,9 +80,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/29) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-2. 🎉 Merged PR [#29](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/29) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-3. 🗣 Commented on [#28](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/28) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-4. 🎉 Merged PR [#27](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/27) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-5. 🗣 Commented on [#26](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/26) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+1. 💪 Opened PR [#110](https://github.com/saurabhdaware/text-to-handwriting/pull/110) in [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting)
+2. ❗️ Opened issue [#109](https://github.com/saurabhdaware/text-to-handwriting/issues/109) in [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting)
+3. 🗣 Commented on [#29](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/29) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+4. 🎉 Merged PR [#29](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/29) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+5. 🗣 Commented on [#28](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/28) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 <!--END_SECTION:activity-->

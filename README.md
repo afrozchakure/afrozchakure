@@ -80,9 +80,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/32) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-2. 🗣 Commented on [#23](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/23) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-3. 🎉 Merged PR [#23](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/23) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-4. 🎉 Merged PR [#31](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/31) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-5. 🗣 Commented on [#22](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/22) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+1. 🗣 Commented on [#30](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/30) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+2. 🎉 Merged PR [#30](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/30) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+3. 🎉 Merged PR [#32](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/32) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+4. 🗣 Commented on [#23](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/23) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+5. 🎉 Merged PR [#23](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/23) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 <!--END_SECTION:activity-->

@@ -1,6 +1,8 @@
 <h2 align='center'><img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px"> I'm Afroz Chakure, Open-Source Developer 🐍</h2>
 
-<div align='center'>
+<h3 align='center'>My Social Profiles @-@ </h3>
+  
+<div align='center'> 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afroz-chakure-489780168/)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaaanchakure)
@@ -14,26 +16,10 @@
 
 </div>
 
-<div style='padding-left: 50px'>
-
-✔️ 📚 Technical <a href="https://hardtasksin.wordpress.com"> Blogger </a> 👨‍💻 and <a href="https://studentambassadors.microsoft.com/en-US/profile/34531">Beta - Microsoft Learn Student Ambassador </a>👨‍🎓   
-✔️ 🤖 Voracious Reader and Machine Learning lover  
-✔️ 📫 How to reach me: aaaanchakure@gmail.com  
-✔️ ⚡ Fun fact: Have 20+ published blogs for publications like: <a href="https://towardsdatascience.com/@aaaanchakure">Towards Data Science</a>, <a href="https://auth.geeksforgeeks.org/user/aaaanchakure/articles">GeeksforGeeks</a> and <a href="https://hackernoon.com/u/afroz-chakure">HackerNoon.</a>
-
-</div>
-
 <div align='center'>
 
-<h3 align='center'><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  Vote for me  🚨
+<h3 align='center'><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  My Skills
 </h3>
-
-<a href="https://noonies.tech/award/hacker-noon-contributor-of-the-year-data-science">Hacker Noon Contributor of the Year (Nominee) - DATA SCIENCE</a>
-
-</div>
-
-
-<div align='center'>
 
 <!-- My Skills -->    
 
@@ -49,13 +35,12 @@
 
 </div> 
 
-
 <div align='center'>
 
-<h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Latest Blog Posts </h3> 
+<h3 align='center'> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Latest Blog Posts </h3> 
 </div>
 
-<div style="padding-left: 50px">
+<div style="padding-left: 50px padding-right:50px">
 
 <!-- Medium:START -->
 - [Introduction to Docker](https://medium.com/swlh/introduction-to-docker-96aad5eabb30?source=rss-e956e8d58684------2)
@@ -67,15 +52,6 @@
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)
-
-</div>
-
-<div align='center'>
-
-### 😎 Github Stats 
-
-
-![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&count_private=true&show_icons=true&theme=graywhite&line_height=27)
 
 </div>
 

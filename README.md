@@ -57,9 +57,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/37) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-2. 🗣 Commented on [#36](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/36) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-3. 🎉 Merged PR [#36](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/36) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-4. 🗣 Commented on [#35](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/35) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+1. 🎉 Merged PR [#38](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/38) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+2. 🎉 Merged PR [#37](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/37) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+3. 🗣 Commented on [#36](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/36) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+4. 🎉 Merged PR [#36](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/36) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 5. 🗣 Commented on [#35](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/35) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 <!--END_SECTION:activity-->

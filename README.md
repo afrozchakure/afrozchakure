@@ -57,9 +57,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/MLH/mlh-hackathon-nodejs-starter/pull/22) in [MLH/mlh-hackathon-nodejs-starter](https://github.com/MLH/mlh-hackathon-nodejs-starter)
-2. ❗️ Opened issue [#21](https://github.com/MLH/mlh-hackathon-nodejs-starter/issues/21) in [MLH/mlh-hackathon-nodejs-starter](https://github.com/MLH/mlh-hackathon-nodejs-starter)
-3. 🎉 Merged PR [#39](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/39) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-4. 🗣 Commented on [#39](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/39) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
-5. ❗️ Reopened issue [#34](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/34) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+1. 🎉 Merged PR [#40](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/40) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+2. 💪 Opened PR [#22](https://github.com/MLH/mlh-hackathon-nodejs-starter/pull/22) in [MLH/mlh-hackathon-nodejs-starter](https://github.com/MLH/mlh-hackathon-nodejs-starter)
+3. ❗️ Opened issue [#21](https://github.com/MLH/mlh-hackathon-nodejs-starter/issues/21) in [MLH/mlh-hackathon-nodejs-starter](https://github.com/MLH/mlh-hackathon-nodejs-starter)
+4. 🎉 Merged PR [#39](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/39) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+5. 🗣 Commented on [#39](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues/39) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
 <!--END_SECTION:activity-->

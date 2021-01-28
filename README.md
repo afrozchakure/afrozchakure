@@ -49,7 +49,6 @@
 - [The Random forest is a non-continuous model which is represented by the horizontal lines in the…](https://medium.com/@aaaanchakure/the-random-forest-is-a-non-continous-model-which-is-represented-by-the-horizontal-lines-in-the-aadd49864ae2?source=rss-e956e8d58684------2)
 - [Support Vector Machines (SVMs)](https://medium.com/@aaaanchakure/support-vector-machines-svms-4bcccbd78369?source=rss-e956e8d58684------2)
 - [Random Forest Classification and Its Implementation](https://medium.com/swlh/random-forest-classification-and-its-implementation-d5d840dbead0?source=rss-e956e8d58684------2)
-- [Logistic Regression](https://medium.com/@aaaanchakure/logistic-regression-18c126a94460?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)

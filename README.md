@@ -1,7 +1,13 @@
 <h2 align='center'><img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px"> I'm Afroz Chakure, Open-Source Developer 🐍</h2>
 
-<h3 align='center'>My Social Profiles @-@ </h3>
+
+<div align='center'>
   
+[![Most Active GitHub User Rank](https://enw7w9hspjeffmp.m.pipedream.net)](https://commits.top/india.html)  
+  
+</div>
+
+<h3 align='center'>My Social Profiles @-@ </h3>
 <div align='center'> 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afroz-chakure-489780168/)

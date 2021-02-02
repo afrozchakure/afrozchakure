@@ -52,7 +52,6 @@
 <!-- Medium:START -->
 - [Tensorflow in 5 minutes](https://medium.com/nerd-for-tech/tensorflow-in-5-minutes-c4396e29f0d5?source=rss-e956e8d58684------2)
 - [Introduction to Docker](https://medium.com/swlh/introduction-to-docker-96aad5eabb30?source=rss-e956e8d58684------2)
-- [The Random forest is a non-continuous model which is represented by the horizontal lines in the…](https://medium.com/@aaaanchakure/the-random-forest-is-a-non-continous-model-which-is-represented-by-the-horizontal-lines-in-the-aadd49864ae2?source=rss-e956e8d58684------2)
 - [Support Vector Machines (SVMs)](https://medium.com/@aaaanchakure/support-vector-machines-svms-4bcccbd78369?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 

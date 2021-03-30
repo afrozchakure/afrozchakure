@@ -53,9 +53,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/afrozchakure/Aadhar-OCR/pull/14) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
-2. 🎉 Merged PR [#13](https://github.com/afrozchakure/Aadhar-OCR/pull/13) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
-3. 🎉 Merged PR [#12](https://github.com/afrozchakure/Aadhar-OCR/pull/12) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
-4. 🎉 Merged PR [#11](https://github.com/afrozchakure/Aadhar-OCR/pull/11) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
-5. 🎉 Merged PR [#45](https://github.com/afrozchakure/Competitive-Programming-Solutions/pull/45) in [afrozchakure/Competitive-Programming-Solutions](https://github.com/afrozchakure/Competitive-Programming-Solutions)
+1. 🎉 Merged PR [#3](https://github.com/afrozchakure/movie-recommedation/pull/3) in [afrozchakure/movie-recommedation](https://github.com/afrozchakure/movie-recommedation)
+2. 🎉 Merged PR [#14](https://github.com/afrozchakure/Aadhar-OCR/pull/14) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
+3. 🎉 Merged PR [#13](https://github.com/afrozchakure/Aadhar-OCR/pull/13) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
+4. 🎉 Merged PR [#12](https://github.com/afrozchakure/Aadhar-OCR/pull/12) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
+5. 🎉 Merged PR [#11](https://github.com/afrozchakure/Aadhar-OCR/pull/11) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
 <!--END_SECTION:activity-->

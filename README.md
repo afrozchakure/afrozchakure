@@ -4,7 +4,7 @@
 <div align='center'> 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afroz-chakure-489780168/)
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaaanchakure)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@afrozchakure)
 [![HackerNoon](https://img.shields.io/badge/Hacker%20Noon-%23239120.svg?&style=for-the-badge&logo=hackernoon&logoColor=white)](https://hackernoon.com/u/afroz-chakure)
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCPmy03SOvaSa7rFbp6x31Hw?view_as=subscriber)
 [![Stackoverflow](https://img.shields.io/badge/Stack%20Overflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10404589/afroz-chakure)

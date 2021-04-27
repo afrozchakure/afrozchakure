@@ -13,6 +13,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: Medium
-          feed_list: "https://medium.com/feed/@aaaanchakure"
+          comment_tag_name: Medium, Dev.to
+          feed_list: "https://medium.com/feed/@afrozchakure,https://dev.to/feed/afrozchakure,https://hardtasks.wordpress.com/feed"
           max_post_count: 10

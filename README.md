@@ -60,9 +60,9 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/amar-belkhede/churn-prediction/pull/2) in [amar-belkhede/churn-prediction](https://github.com/amar-belkhede/churn-prediction)
-2. 💪 Opened PR [#6936](https://github.com/education/GitHubGraduation-2021/pull/6936) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-3. 💪 Opened PR [#1](https://github.com/amar-belkhede/churn-prediction/pull/1) in [amar-belkhede/churn-prediction](https://github.com/amar-belkhede/churn-prediction)
-4. 🎉 Merged PR [#5](https://github.com/afrozchakure/movie-recommedation/pull/5) in [afrozchakure/movie-recommedation](https://github.com/afrozchakure/movie-recommedation)
-5. 🎉 Merged PR [#15](https://github.com/afrozchakure/Aadhar-OCR/pull/15) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
+1. 🎉 Merged PR [#16](https://github.com/afrozchakure/Aadhar-OCR/pull/16) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
+2. 💪 Opened PR [#2](https://github.com/amar-belkhede/churn-prediction/pull/2) in [amar-belkhede/churn-prediction](https://github.com/amar-belkhede/churn-prediction)
+3. 💪 Opened PR [#6936](https://github.com/education/GitHubGraduation-2021/pull/6936) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+4. 💪 Opened PR [#1](https://github.com/amar-belkhede/churn-prediction/pull/1) in [amar-belkhede/churn-prediction](https://github.com/amar-belkhede/churn-prediction)
+5. 🎉 Merged PR [#5](https://github.com/afrozchakure/movie-recommedation/pull/5) in [afrozchakure/movie-recommedation](https://github.com/afrozchakure/movie-recommedation)
 <!--END_SECTION:activity-->

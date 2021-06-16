@@ -43,7 +43,7 @@
 <div style="padding-left: 50px padding-right:50px">
 
 <!-- Medium:START -->
-- [YOLOv3 (You Only Look Once)](https://medium.com/swlh/yolov3-you-only-look-once-12de76ad74d5?source=rss-e956e8d58684------2)
+- [YOLOv3 (You Only Look Once)](https://medium.datadriveninvestor.com/yolov3-you-only-look-once-12de76ad74d5?source=rss-e956e8d58684------2)
 - [All you need to know about YOLO v3 (You Only Look Once)](https://dev.to/afrozchakure/all-you-need-to-know-about-yolo-v3-you-only-look-once-e4m)
 - [Transfer Learning with MobileNet-v2](https://dev.to/afrozchakure/transfer-learning-with-mobilenet-v2-4ijn)
 - [Hyper-Parameter Tuning to Optimize ML Models (MobileNet v2)](https://dev.to/afrozchakure/hyper-parameter-tuning-to-optimize-ml-models-mobilenet-v2-4jnc)

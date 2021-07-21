@@ -58,11 +58,3 @@
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)
 
 </div>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/afrozchakure/Aadhar-OCR/pull/17) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
-2. 🎉 Merged PR [#16](https://github.com/afrozchakure/Aadhar-OCR/pull/16) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
-3. 💪 Opened PR [#6936](https://github.com/education/GitHubGraduation-2021/pull/6936) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-4. 🎉 Merged PR [#16](https://github.com/afrozchakure/Aadhar-OCR/pull/16) in [afrozchakure/Aadhar-OCR](https://github.com/afrozchakure/Aadhar-OCR)
-5. 💪 Opened PR [#6936](https://github.com/education/GitHubGraduation-2021/pull/6936) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-<!--END_SECTION:activity-->

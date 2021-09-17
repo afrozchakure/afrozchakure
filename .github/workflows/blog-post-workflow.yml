@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '30 * * * *'
   workflow_dispatch:  
 
 jobs:
@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: Medium
-          feed_list: "https://medium.com/feed/@afrozchakure,https://dev.to/feed/afrozchakure,https://hardtasks.wordpress.com/feed"
-          max_post_count: 10
+          feed_list: "https://medium.com/feed/@afrozchakure"
+          max_post_count: 5

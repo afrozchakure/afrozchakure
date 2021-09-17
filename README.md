@@ -1,7 +1,7 @@
-<h2 align='center'><img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px"> I'm Afroz Chakure, Open-Source Developer 🐍</h2>
+<h3 align='left'>Hi <img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px">, I'm Afroz Chakure, a Software Developer</h3>
 
-<h3 align='center'>My Social Profiles @-@ </h3>
-<div align='center'> 
+<h3 align='left'>💻👨‍💻 Coding Profiles</h3>
+<div align='left'> 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afroz-chakure-489780168/)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@afrozchakure)
@@ -16,31 +16,12 @@
 
 </div>
 
-<div align='center'>
+<div align='left'>
 
-<h3 align='center'><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  My Skills
-</h3>
-
-<!-- My Skills -->    
-
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" width=80px/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width= 110px/>
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" width= 40px/>
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" width=60px/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" width=100px/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" width=80px/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" width=80px/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" width=70px/>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" width=90px>
-
-</div> 
-
-<div align='center'>
-
-<h3 align='center'> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Latest Blog Posts </h3> 
+<h3 align='left'>🔥 Latest Blog Posts </h3> 
 </div>
 
-<div style="padding-left: 50px padding-right:50px">
+<div align="left">
 
 <!-- Medium:START -->
 - [YOLOv3 (You Only Look Once)](https://medium.datadriveninvestor.com/yolov3-you-only-look-once-12de76ad74d5?source=rss-e956e8d58684------2)
@@ -58,3 +39,9 @@
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)
 
 </div>
+
+### 😎 Github Stats 
+<p align="left">
+
+![Afroz's github stats](https://github-readme-stats.vercel.app/api?username=afrozchakure&count_private=true&show_icons=true&theme=graywhite&line_height=25)
+</p>

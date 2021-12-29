@@ -24,10 +24,10 @@
 <div align="left">
 
 <!-- Medium:START -->
-- [YOLOv3 &lpar;You Only Look Once&rpar;](https://medium.datadriveninvestor.com/yolov3-you-only-look-once-12de76ad74d5?source=rss-e956e8d58684------2)
-- [Tensorflow in 5 minutes](https://medium.datadriveninvestor.com/tensorflow-in-5-minutes-c4396e29f0d5?source=rss-e956e8d58684------2)
+- [YOLOv3 &lpar;You Only Look Once&rpar;](https://afrozchakure.medium.com/yolov3-you-only-look-once-12de76ad74d5?source=rss-e956e8d58684------2)
+- [Tensorflow in 5 minutes](https://afrozchakure.medium.com/tensorflow-in-5-minutes-c4396e29f0d5?source=rss-e956e8d58684------2)
 - [Introduction to Docker](https://medium.com/swlh/introduction-to-docker-96aad5eabb30?source=rss-e956e8d58684------2)
-- [Support Vector Machines &lpar;SVMs&rpar;](https://medium.datadriveninvestor.com/support-vector-machines-svms-4bcccbd78369?source=rss-e956e8d58684------2)
+- [Support Vector Machines &lpar;SVMs&rpar;](https://afrozchakure.medium.com/support-vector-machines-svms-4bcccbd78369?source=rss-e956e8d58684------2)
 - [Random Forest Classification and Its Implementation](https://medium.com/swlh/random-forest-classification-and-its-implementation-d5d840dbead0?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 

@@ -41,7 +41,7 @@
 
 <!-- Medium:START -->
 - [How to read any topic, lesson, or a book thoroughly?](https://afrozchakure.medium.com/how-to-read-any-topic-lesson-or-a-book-thoroughly-85cdb575bcb1?source=rss-e956e8d58684------2)
-- [You need just 20 hours to learn anything! ⏱️](https://afrozchakure.medium.com/you-need-just-20-hours-to-learn-anything-%EF%B8%8F-51a225267348?source=rss-e956e8d58684------2)
+- [You just need 20 hours to learn anything! ⏱️](https://afrozchakure.medium.com/you-need-just-20-hours-to-learn-anything-%EF%B8%8F-51a225267348?source=rss-e956e8d58684------2)
 - [6 Laws to lead a Productive Life](https://afrozchakure.medium.com/6-laws-to-lead-a-productive-life-6cccd57e9f6f?source=rss-e956e8d58684------2)
 - [6 Laws to lead a productive life](https://afrozchakure.medium.com/6-laws-to-lead-a-productive-life-814b9b7a9f76?source=rss-e956e8d58684------2)
 - [YOLOv3 &lpar;You Only Look Once&rpar;](https://medium.datadriveninvestor.com/yolov3-you-only-look-once-12de76ad74d5?source=rss-e956e8d58684------2)

@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [6 Laws to lead a Productive Life](https://afrozchakure.medium.com/6-laws-to-lead-a-productive-life-6cccd57e9f6f?source=rss-e956e8d58684------2)
 - [6 Laws to lead a productive life](https://afrozchakure.medium.com/6-laws-to-lead-a-productive-life-814b9b7a9f76?source=rss-e956e8d58684------2)
 - [YOLOv3 &lpar;You Only Look Once&rpar;](https://medium.datadriveninvestor.com/yolov3-you-only-look-once-12de76ad74d5?source=rss-e956e8d58684------2)
 - [Tensorflow in 5 minutes](https://medium.datadriveninvestor.com/tensorflow-in-5-minutes-c4396e29f0d5?source=rss-e956e8d58684------2)
 - [Introduction to Docker](https://medium.com/swlh/introduction-to-docker-96aad5eabb30?source=rss-e956e8d58684------2)
-- [Support Vector Machines &lpar;SVMs&rpar;](https://medium.datadriveninvestor.com/support-vector-machines-svms-4bcccbd78369?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)

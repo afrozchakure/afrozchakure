@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [Why competition is for losers?](https://afrozchakure.medium.com/why-competition-is-for-losers-26077758d869?source=rss-e956e8d58684------2)
 - [How to read a book?](https://afrozchakure.medium.com/how-to-read-any-topic-lesson-or-a-book-thoroughly-85cdb575bcb1?source=rss-e956e8d58684------2)
 - [You just need 20 hours to learn anything! ⏱️](https://afrozchakure.medium.com/you-need-just-20-hours-to-learn-anything-%EF%B8%8F-51a225267348?source=rss-e956e8d58684------2)
 - [6 Laws to lead a Productive Life](https://afrozchakure.medium.com/6-laws-to-lead-a-productive-life-6cccd57e9f6f?source=rss-e956e8d58684------2)
 - [YOLOv3 &lpar;You Only Look Once&rpar;](https://medium.datadriveninvestor.com/yolov3-you-only-look-once-12de76ad74d5?source=rss-e956e8d58684------2)
-- [Tensorflow in 5 minutes](https://medium.datadriveninvestor.com/tensorflow-in-5-minutes-c4396e29f0d5?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)

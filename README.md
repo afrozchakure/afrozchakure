@@ -40,7 +40,7 @@
 <div align="left">
 
 <!-- Medium:START -->
-- [No, it’s not your fault —  these Influencers are really screwing you over](https://afrozchakure.medium.com/no-its-not-your-fault-these-influencers-are-really-screwing-you-over-7e897da60eed?source=rss-e956e8d58684------2)
+- [No, It’s Not You. These Influencers Are Really Screwing You Over.](https://afrozchakure.medium.com/no-its-not-your-fault-these-influencers-are-really-screwing-you-over-7e897da60eed?source=rss-e956e8d58684------2)
 - [Why competition is for losers?](https://afrozchakure.medium.com/why-competition-is-for-losers-26077758d869?source=rss-e956e8d58684------2)
 - [How to read a book?](https://afrozchakure.medium.com/how-to-read-any-topic-lesson-or-a-book-thoroughly-85cdb575bcb1?source=rss-e956e8d58684------2)
 - [You just need 20 hours to learn anything! ⏱️](https://afrozchakure.medium.com/you-need-just-20-hours-to-learn-anything-%EF%B8%8F-51a225267348?source=rss-e956e8d58684------2)

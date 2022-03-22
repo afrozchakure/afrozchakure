@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [7 Steps to build a Machine Learning Model](https://afrozchakure.medium.com/7-steps-to-build-a-machine-learning-model-23089fcb5f21?source=rss-e956e8d58684------2)
 - [How modern day Influencers are robbing an entire generation of their money and mental health?](https://afrozchakure.medium.com/no-its-not-your-fault-these-influencers-are-really-screwing-you-over-7e897da60eed?source=rss-e956e8d58684------2)
 - [Why competition is for losers?](https://afrozchakure.medium.com/why-competition-is-for-losers-26077758d869?source=rss-e956e8d58684------2)
 - [How to read a book?](https://afrozchakure.medium.com/how-to-read-any-topic-lesson-or-a-book-thoroughly-85cdb575bcb1?source=rss-e956e8d58684------2)
 - [You just need 20 hours to learn anything! ⏱️](https://afrozchakure.medium.com/you-need-just-20-hours-to-learn-anything-%EF%B8%8F-51a225267348?source=rss-e956e8d58684------2)
-- [6 Laws to lead a Productive Life](https://afrozchakure.medium.com/6-laws-to-lead-a-productive-life-6cccd57e9f6f?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)

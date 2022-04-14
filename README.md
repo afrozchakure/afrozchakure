@@ -40,7 +40,7 @@
 <div align="left">
 
 <!-- Medium:START -->
-- [Why your Titles at Work mean Nothing?](https://afrozchakure.medium.com/why-your-titles-at-work-mean-nothing-90a43634cd4b?source=rss-e956e8d58684------2)
+- [Why Your Titles at Work mean Nothing?](https://afrozchakure.medium.com/why-your-titles-at-work-mean-nothing-90a43634cd4b?source=rss-e956e8d58684------2)
 - [My Learnings from #100DaysOfCodeChallenge](https://afrozchakure.medium.com/my-learnings-from-100daysofcodechallenge-fe3020b83628?source=rss-e956e8d58684------2)
 - [Computer Vision in AI and its different Types ️](https://afrozchakure.medium.com/computer-vision-in-ai-and-its-different-types-%EF%B8%8F-d12ff54f603?source=rss-e956e8d58684------2)
 - [How I read 30 books in my first year of college? ‍](https://afrozchakure.medium.com/how-i-read-30-books-in-my-first-year-of-college-c22cb5d71993?source=rss-e956e8d58684------2)

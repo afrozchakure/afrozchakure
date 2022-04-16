@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [Hyper-Parameter Tuning to Optimize DL Models &lpar;MobileNet v2&rpar;](https://afrozchakure.medium.com/hyper-parameter-tuning-to-optimize-dl-models-mobilenet-v2-511463aae764?source=rss-e956e8d58684------2)
+- [Transfer Learning with MobileNet-v2](https://afrozchakure.medium.com/transfer-learning-with-mobilenet-v2-5cc7cd2729ce?source=rss-e956e8d58684------2)
 - [Your Titles at Work mean Nothing! ‍♀️‍♂️](https://afrozchakure.medium.com/why-your-titles-at-work-mean-nothing-90a43634cd4b?source=rss-e956e8d58684------2)
 - [My Learnings from #100DaysOfCodeChallenge](https://afrozchakure.medium.com/my-learnings-from-100daysofcodechallenge-fe3020b83628?source=rss-e956e8d58684------2)
-- [Computer Vision in AI and its different Types ️](https://afrozchakure.medium.com/computer-vision-in-ai-and-its-different-types-%EF%B8%8F-d12ff54f603?source=rss-e956e8d58684------2)
-- [Reading 30 books in my first year of college ‍](https://afrozchakure.medium.com/how-i-read-30-books-in-my-first-year-of-college-c22cb5d71993?source=rss-e956e8d58684------2)
-- [Top 6 Machine Learning Algorithms](https://afrozchakure.medium.com/top-6-machine-learning-algorithms-44db10129c66?source=rss-e956e8d58684------2)
+- [Computer Vision in AI and its Types ️](https://afrozchakure.medium.com/computer-vision-in-ai-and-its-different-types-%EF%B8%8F-d12ff54f603?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@aaaanchakure)

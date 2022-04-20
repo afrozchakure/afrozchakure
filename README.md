@@ -40,7 +40,7 @@
 <div align="left">
 
 <!-- Medium:START -->
-- [Psst … Medium, Consider Paying Indian Writers Please](https://afrozchakure.medium.com/psst-medium-consider-paying-indian-writers-please-9dfc21a830c5?source=rss-e956e8d58684------2)
+- [Hey Medium! Consider Paying Indian Writers Please](https://afrozchakure.medium.com/psst-medium-consider-paying-indian-writers-please-9dfc21a830c5?source=rss-e956e8d58684------2)
 - [Hyper-Parameter Tuning to Optimize DL Models &lpar;MobileNet v2&rpar;](https://afrozchakure.medium.com/hyper-parameter-tuning-to-optimize-dl-models-mobilenet-v2-511463aae764?source=rss-e956e8d58684------2)
 - [Transfer Learning with MobileNet-v2](https://afrozchakure.medium.com/transfer-learning-with-mobilenet-v2-5cc7cd2729ce?source=rss-e956e8d58684------2)
 - [Your Titles at Work mean Nothing! ‍♀️‍♂️](https://afrozchakure.medium.com/why-your-titles-at-work-mean-nothing-90a43634cd4b?source=rss-e956e8d58684------2)

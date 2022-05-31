@@ -40,7 +40,7 @@
 <div align="left">
 
 <!-- Medium:START -->
-- [Why are people feeling Burnout in Tech?](https://afrozchakure.medium.com/why-are-people-feeling-burned-out-in-tech-f2e767d389b?source=rss-e956e8d58684------2)
+- [7 Ways To Deal With Tech Burnout](https://afrozchakure.medium.com/why-are-people-feeling-burned-out-in-tech-f2e767d389b?source=rss-e956e8d58684------2)
 - [My Experience as a Microsoft Learn Student Ambassador](https://afrozchakure.medium.com/my-experience-as-a-microsoft-learn-student-ambassador-9e051a7ea885?source=rss-e956e8d58684------2)
 - [Psst … Medium,  Consider Paying Indian Writers please!](https://afrozchakure.medium.com/psst-medium-consider-paying-indian-writers-please-9dfc21a830c5?source=rss-e956e8d58684------2)
 - [Hyper-Parameter Tuning to Optimize DL Models &lpar;MobileNet v2&rpar;](https://afrozchakure.medium.com/hyper-parameter-tuning-to-optimize-dl-models-mobilenet-v2-511463aae764?source=rss-e956e8d58684------2)

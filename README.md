@@ -40,7 +40,7 @@
 <div align="left">
 
 <!-- Medium:START -->
-- [Lessons from Capuchin monkeys about Unequal Pay](https://afrozchakure.medium.com/lessons-from-capuchin-monkeys-about-unequal-pay-afa224a88999?source=rss-e956e8d58684------2)
+- [Lessons from Capuchin monkeys on Unequal Pay](https://afrozchakure.medium.com/lessons-from-capuchin-monkeys-about-unequal-pay-afa224a88999?source=rss-e956e8d58684------2)
 - [7 ways to deal with Tech Burn-out](https://afrozchakure.medium.com/why-are-people-feeling-burned-out-in-tech-f2e767d389b?source=rss-e956e8d58684------2)
 - [My Experience as a Microsoft Learn Student Ambassador](https://afrozchakure.medium.com/my-experience-as-a-microsoft-learn-student-ambassador-9e051a7ea885?source=rss-e956e8d58684------2)
 - [Psst … Medium,  Consider Paying Indian Writers please!](https://afrozchakure.medium.com/psst-medium-consider-paying-indian-writers-please-9dfc21a830c5?source=rss-e956e8d58684------2)

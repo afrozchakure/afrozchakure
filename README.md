@@ -1,4 +1,4 @@
-<h3 align='left'><img src="https://github.com/afrozchakure/afrozchakure/blob/master/assets/wave.gif" width="40px"> Hi! I'm Afroz Chakure</h3><hr>
+<h3 align='left'> 👋 Hi! I'm Afroz Chakure</h3><hr>
 
 ### Read my blogs on [InteractiveGeneration.tech](https://interactivegeneration.tech) 
 

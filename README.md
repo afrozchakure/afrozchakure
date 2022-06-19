@@ -47,7 +47,7 @@
 - [Hyper-Parameter Tuning to Optimize DL Models &lpar;MobileNet v2&rpar;](https://afrozchakure.medium.com/hyper-parameter-tuning-to-optimize-dl-models-mobilenet-v2-511463aae764?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
-➡️ [more blog posts...](https://medium.com/@aaaanchakure)
+➡️ [more blog posts...](https://medium.com/@afrozchakure)
 
 </div>
 

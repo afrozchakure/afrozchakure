@@ -40,7 +40,7 @@
 <div align="left">
 
 <!-- Medium:START -->
-- [Convolutional Neural Networks &lpar;CNN&rpar; and its applications](https://afrozchakure.medium.com/convolutional-neural-networks-cnn-and-its-applications-ed278d44b42a?source=rss-e956e8d58684------2)
+- [Convolutional Neural Networks &lpar;CNN&rpar; and its applications](https://becominghuman.ai/convolutional-neural-networks-cnn-and-its-applications-ed278d44b42a?source=rss-e956e8d58684------2)
 - [Artificial Neural Networks &lpar;ANNs&rpar;](https://medium.com/swlh/artificial-neural-networks-ann-in-brief-855510c911de?source=rss-e956e8d58684------2)
 - [Why Learned Helplessness Will Destroy Your Life?](https://afrozchakure.medium.com/how-learned-helplessness-will-destroy-your-life-985e43235b95?source=rss-e956e8d58684------2)
 - [Tricking Your Brain Into Learning Anything!](https://afrozchakure.medium.com/tricking-your-brain-into-learning-anything-f4f13ad402a8?source=rss-e956e8d58684------2)

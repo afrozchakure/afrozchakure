@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [My 1 Year As A Software Engineer at Tietoevry, Pune](https://afrozchakure.medium.com/my-1-year-as-a-software-engineer-at-tietoevry-pune-b0e1ab29b33b?source=rss-e956e8d58684------2)
 - [Why You Should Prepare For Failure Rather Than Success](https://afrozchakure.medium.com/why-you-should-prepare-for-failure-rather-than-success-e1073541a8f8?source=rss-e956e8d58684------2)
 - [Convolutional Neural Networks &lpar;CNN&rpar; and its applications](https://becominghuman.ai/convolutional-neural-networks-cnn-and-its-applications-ed278d44b42a?source=rss-e956e8d58684------2)
 - [Artificial Neural Networks &lpar;ANNs&rpar;](https://medium.com/swlh/artificial-neural-networks-ann-in-brief-855510c911de?source=rss-e956e8d58684------2)
 - [Why Learned Helplessness Will Destroy Your Life?](https://afrozchakure.medium.com/how-learned-helplessness-will-destroy-your-life-985e43235b95?source=rss-e956e8d58684------2)
-- [Tricking Your Brain Into Learning Anything!](https://afrozchakure.medium.com/tricking-your-brain-into-learning-anything-f4f13ad402a8?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@afrozchakure)

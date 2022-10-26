@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [5 ways to increase your productivity and get things done](https://afrozchakure.medium.com/5-ways-to-increase-your-productivity-and-get-things-done-eccdbd86d469?source=rss-e956e8d58684------2)
 - [You’ll Never Fail If You Bet On Yourself!](https://afrozchakure.medium.com/youll-never-fail-if-you-bet-on-yourself-2ad82a6df206?source=rss-e956e8d58684------2)
 - [What You Can Learn from Life of Andrew Carnegie](https://afrozchakure.medium.com/what-you-can-learn-from-life-of-andrew-carnegie-e83ce71ce196?source=rss-e956e8d58684------2)
 - [My 1 Year As A Software Engineer at Tietoevry, Pune](https://afrozchakure.medium.com/my-1-year-as-a-software-engineer-at-tietoevry-pune-b0e1ab29b33b?source=rss-e956e8d58684------2)
 - [Why You Should Prepare For Failure Rather Than Success](https://afrozchakure.medium.com/why-you-should-prepare-for-failure-rather-than-success-e1073541a8f8?source=rss-e956e8d58684------2)
-- [Convolutional Neural Networks &lpar;CNN&rpar; and its applications](https://becominghuman.ai/convolutional-neural-networks-cnn-and-its-applications-ed278d44b42a?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@afrozchakure)

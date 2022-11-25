@@ -40,7 +40,7 @@
 <div align="left">
 
 <!-- Medium:START -->
-- [6 Simple Tips to Investing Money](https://afrozchakure.medium.com/6-simple-tips-to-invest-in-your-future-e4fd960cd120?source=rss-e956e8d58684------2)
+- [6 Tips To Build An Investor’s Mindset](https://afrozchakure.medium.com/6-simple-tips-to-invest-in-your-future-e4fd960cd120?source=rss-e956e8d58684------2)
 - [6 Websites To Get Better At Data Structures and Algorithms &lpar;DSA&rpar;](https://medium.com/codex/6-websites-to-get-better-at-data-structures-and-algorithms-dsa-e3f61763a482?source=rss-e956e8d58684------2)
 - [5 ways to increase your productivity and get things done](https://afrozchakure.medium.com/5-ways-to-increase-your-productivity-and-get-things-done-eccdbd86d469?source=rss-e956e8d58684------2)
 - [You’ll Never Fail If You Bet On Yourself!](https://afrozchakure.medium.com/youll-never-fail-if-you-bet-on-yourself-2ad82a6df206?source=rss-e956e8d58684------2)

@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [You Sometimes Develop Insecurities From Your Peers](https://afrozchakure.medium.com/you-sometimes-develop-insecurities-from-your-peers-34da3bad0289?source=rss-e956e8d58684------2)
 - [Propaganda — How it Works and How it destroyed a Country](https://afrozchakure.medium.com/propaganda-how-it-works-and-how-it-destroyed-a-country-285e6f9803f8?source=rss-e956e8d58684------2)
 - [How The Insurance Industry Destroyed Healthcare](https://afrozchakure.medium.com/how-the-insurance-industry-destroyed-healthcare-fd2f3d25de82?source=rss-e956e8d58684------2)
 - [FOMO &amp; Fabrication of Truth](https://afrozchakure.medium.com/fomo-fabrication-of-truth-fdd24f112059?source=rss-e956e8d58684------2)
 - [The Sad Truth About 24/7 Content Creation on LinkedIn](https://afrozchakure.medium.com/the-sad-truth-about-24-7-content-creation-on-linkedin-b84e779da01e?source=rss-e956e8d58684------2)
-- [I Asked AI To Write An Article For Me. Here Is The Result!](https://afrozchakure.medium.com/i-asked-ai-to-write-an-article-for-me-here-is-the-result-309e9d84d77d?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@afrozchakure)

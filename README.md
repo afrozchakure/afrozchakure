@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [I miss the days without Smartphones](https://afrozchakure.medium.com/i-miss-the-days-without-smartphones-8f232322956c?source=rss-e956e8d58684------2)
 - [Unleashing the Power of ‘Why’: How Great Leaders Inspire Action](https://medium.datadriveninvestor.com/power-of-why-how-great-leaders-inspire-action-8643594cdfb5?source=rss-e956e8d58684------2)
 - [Life is Very Random](https://medium.com/swlh/life-is-very-random-208ac5a96df?source=rss-e956e8d58684------2)
 - [5 Popular Stoic Philosophies for Modern Living](https://afrozchakure.medium.com/5-popular-stoic-philosophies-for-modern-living-c4a54d2a851b?source=rss-e956e8d58684------2)
 - [You Can’t Get Ahead in Life If You Just Copy Other People](https://afrozchakure.medium.com/you-cant-get-ahead-in-life-if-you-just-copy-other-people-89c775eef66f?source=rss-e956e8d58684------2)
-- [Unlocking the Time Estimation Puzzle: Decoding Hofstadter’s Law](https://afrozchakure.medium.com/unlocking-the-time-estimation-puzzle-decoding-hofstadters-law-b936cced8071?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@afrozchakure)

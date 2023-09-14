@@ -42,7 +42,7 @@
 <!-- Medium:START -->
 - [You are the creator of your own destiny](https://afrozchakure.medium.com/you-are-the-creator-of-your-own-destiny-a91a35907dbd?source=rss-e956e8d58684------2)
 - [I miss the days without Smartphones](https://afrozchakure.medium.com/i-miss-the-days-without-smartphones-8f232322956c?source=rss-e956e8d58684------2)
-- [Unleashing the Power of ‘Why’: How Great Leaders Inspire Action](https://medium.datadriveninvestor.com/power-of-why-how-great-leaders-inspire-action-8643594cdfb5?source=rss-e956e8d58684------2)
+- [Unleashing the Power of ‘Why’: How Great Leaders Inspire Action](https://medium.com/datadriveninvestor/power-of-why-how-great-leaders-inspire-action-8643594cdfb5?source=rss-e956e8d58684------2)
 - [Life is Very Random](https://medium.com/swlh/life-is-very-random-208ac5a96df?source=rss-e956e8d58684------2)
 - [5 Popular Stoic Philosophies for Modern Living](https://afrozchakure.medium.com/5-popular-stoic-philosophies-for-modern-living-c4a54d2a851b?source=rss-e956e8d58684------2)
 <!-- Medium:END -->

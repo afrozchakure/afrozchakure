@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [Making Every Day Count](https://afrozchakure.medium.com/making-every-day-count-869f8c9b732f?source=rss-e956e8d58684------2)
 - [When Icarus Falls](https://afrozchakure.medium.com/when-icarus-falls-0dc48a79dc03?source=rss-e956e8d58684------2)
 - [Fixing a Broken World](https://afrozchakure.medium.com/fixing-a-broken-world-0d07dd7902da?source=rss-e956e8d58684------2)
 - [Power of Gods in your hands](https://afrozchakure.medium.com/power-of-gods-in-your-hands-6958c80b9270?source=rss-e956e8d58684------2)
 - [You are the creator of your own destiny](https://afrozchakure.medium.com/you-are-the-creator-of-your-own-destiny-a91a35907dbd?source=rss-e956e8d58684------2)
-- [I miss the days without Smartphones](https://afrozchakure.medium.com/i-miss-the-days-without-smartphones-8f232322956c?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@afrozchakure)

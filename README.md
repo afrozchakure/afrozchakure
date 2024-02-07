@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [Why less is more](https://afrozchakure.medium.com/why-less-is-more-a33731ab7c01?source=rss-e956e8d58684------2)
 - [Sealed Classes in Java 17](https://afrozchakure.medium.com/sealed-classes-in-java-17-8f00351d27f4?source=rss-e956e8d58684------2)
 - [On Wars: Why it is easy to Hate and Difficult to Love?](https://afrozchakure.medium.com/on-wars-its-easy-to-hate-difficult-to-love-80d5efcb043f?source=rss-e956e8d58684------2)
 - [The Toxic World of Content Creation on LinkedIn](https://afrozchakure.medium.com/the-toxic-world-of-content-creation-on-linkedin-b9224f7d8d28?source=rss-e956e8d58684------2)
 - [Making Every Day Count](https://afrozchakure.medium.com/making-every-day-count-869f8c9b732f?source=rss-e956e8d58684------2)
-- [When Icarus Falls](https://afrozchakure.medium.com/when-icarus-falls-0dc48a79dc03?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@afrozchakure)

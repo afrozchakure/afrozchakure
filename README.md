@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [5 Stoic Philosophies for a Good Life](https://afrozchakure.medium.com/5-stoic-philosophies-for-a-good-life-08ecdad9efb5?source=rss-e956e8d58684------2)
 - [You Never Truly Know: The Importance of Initiating Meaningful Conversations](https://afrozchakure.medium.com/you-never-really-get-to-know-the-person-92bf2b1b72d0?source=rss-e956e8d58684------2)
 - [The Insignificance of Everything you do!](https://medium.datadriveninvestor.com/the-insignificance-of-everything-you-do-d0c0b5a72341?source=rss-e956e8d58684------2)
 - [Sleepwalking through life](https://afrozchakure.medium.com/sleepwalking-through-life-55ae50b7d1b9?source=rss-e956e8d58684------2)
 - [The World of Professional Wrestling](https://afrozchakure.medium.com/the-world-of-professional-wrestling-f04a227dab0c?source=rss-e956e8d58684------2)
-- [My 10 Favorite Quotes from ‘Harry Potter and the Philosopher’s Stone’](https://afrozchakure.medium.com/my-10-favorite-quotes-from-harry-potter-and-the-philosophers-stone-414e6a0c69d0?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@afrozchakure)

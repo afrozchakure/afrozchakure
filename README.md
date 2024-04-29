@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [4 Reasons Why ‘The Less You know the Better’](https://medium.com/swlh/4-reasons-why-the-less-you-know-the-better-6d3d6f3d3600?source=rss-e956e8d58684------2)
 - [Be Elite in what you do!](https://afrozchakure.medium.com/be-elite-in-what-you-do-d640dc3b5912?source=rss-e956e8d58684------2)
 - [Don’t Hate the Player, Hate the Game](https://afrozchakure.medium.com/dont-hate-the-player-hate-the-game-f3df065de3aa?source=rss-e956e8d58684------2)
 - [Don’t let your Titles at work define you as a Person](https://afrozchakure.medium.com/dont-let-your-titles-at-work-define-you-as-a-person-e955927cd2ca?source=rss-e956e8d58684------2)
 - [5 Stoic Ideas for a Good Life](https://becominghuman.ai/5-stoic-philosophies-for-a-good-life-08ecdad9efb5?source=rss-e956e8d58684------2)
-- [You Never Truly Know: The Importance of Initiating Meaningful Conversations](https://afrozchakure.medium.com/you-never-really-get-to-know-the-person-92bf2b1b72d0?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@afrozchakure)

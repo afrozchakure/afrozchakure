@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [The Complex Web: Political Party Funding, Wealthy Donors, Shell Companies, and Stock Market…](https://afrozchakure.medium.com/the-complex-web-political-party-funding-wealthy-donors-shell-companies-and-stock-market-f3f5d50e4704?source=rss-e956e8d58684------2)
 - [Electoral Bonds — Unconstitutional Scheme that encouraged Money laundering in the name of Anonymity](https://afrozchakure.medium.com/electoral-bonds-unconstitutional-scheme-that-encouraged-money-laundering-in-the-name-of-anonymity-87772a130101?source=rss-e956e8d58684------2)
 - [Try not to be a One trick Pony](https://afrozchakure.medium.com/dont-be-a-one-trick-pony-b9f73fda4a96?source=rss-e956e8d58684------2)
 - [4 Reasons Why ‘The Less You know the Better’](https://medium.com/swlh/4-reasons-why-the-less-you-know-the-better-6d3d6f3d3600?source=rss-e956e8d58684------2)
 - [Be Elite in what you do!](https://afrozchakure.medium.com/be-elite-in-what-you-do-d640dc3b5912?source=rss-e956e8d58684------2)
-- [Don’t Hate the Player, Hate the Game](https://afrozchakure.medium.com/dont-hate-the-player-hate-the-game-f3df065de3aa?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@afrozchakure)

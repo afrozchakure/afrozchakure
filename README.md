@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [You don’t have to prove anything to anyone](https://afrozchakure.medium.com/you-dont-have-to-prove-anything-to-anyone-85c117ebe1ad?source=rss-e956e8d58684------2)
 - [Are you Fragile?](https://afrozchakure.medium.com/are-you-fragile-b628f0486b1f?source=rss-e956e8d58684------2)
 - [What Harry Potter can teach you about Media &amp; Authoritarian Regimes](https://afrozchakure.medium.com/what-harry-potter-can-teach-you-about-media-authoritarian-regimes-ad386969197c?source=rss-e956e8d58684------2)
 - [The Hidden Link: Political Party Funding, Wealthy Donors, Shell Companies, and Stock Market…](https://afrozchakure.medium.com/the-complex-web-political-party-funding-wealthy-donors-shell-companies-and-stock-market-f3f5d50e4704?source=rss-e956e8d58684------2)
 - [Electoral Bonds — Unconstitutional Scheme that encouraged Money laundering in the name of Anonymity](https://afrozchakure.medium.com/electoral-bonds-unconstitutional-scheme-that-encouraged-money-laundering-in-the-name-of-anonymity-87772a130101?source=rss-e956e8d58684------2)
-- [Try not to be a One trick Pony](https://afrozchakure.medium.com/dont-be-a-one-trick-pony-b9f73fda4a96?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@afrozchakure)

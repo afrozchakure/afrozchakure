@@ -40,7 +40,7 @@
 <div align="left">
 
 <!-- Medium:START -->
-- [Feels like I’m Lost in the Shuffle, Again](https://afrozchakure.medium.com/feels-like-im-lost-in-the-shuffle-5f93738a8a97?source=rss-e956e8d58684------2)
+- [Feels like Lost in the Shuffle, Again](https://afrozchakure.medium.com/feels-like-im-lost-in-the-shuffle-5f93738a8a97?source=rss-e956e8d58684------2)
 - [Part 1: Understanding Fear](https://afrozchakure.medium.com/part-1-understanding-fear-d666d9bee765?source=rss-e956e8d58684------2)
 - [Imagine Hitler in the age of Social Media](https://afrozchakure.medium.com/hitler-in-the-age-of-social-media-378cc1c47cf8?source=rss-e956e8d58684------2)
 - [You don’t have to prove anything to anyone](https://afrozchakure.medium.com/you-dont-have-to-prove-anything-to-anyone-85c117ebe1ad?source=rss-e956e8d58684------2)

@@ -40,7 +40,7 @@
 <div align="left">
 
 <!-- Medium:START -->
-- [A Foolproof Plan to Become a Good Software Developer](https://medium.com/codex/a-foolproof-plan-to-become-a-good-software-developer-9495b216c240?source=rss-e956e8d58684------2)
+- [7 Steps to Become a Good Software Developer](https://medium.com/codex/a-foolproof-plan-to-become-a-good-software-developer-9495b216c240?source=rss-e956e8d58684------2)
 - [Understanding Large Language Models &lpar;LLMs&rpar;](https://afrozchakure.medium.com/understanding-large-language-models-llms-f85d610d5d60?source=rss-e956e8d58684------2)
 - [Feels like Lost in the Shuffle, Again](https://afrozchakure.medium.com/feels-like-im-lost-in-the-shuffle-5f93738a8a97?source=rss-e956e8d58684------2)
 - [Part 1: Understanding Fear](https://medium.datadriveninvestor.com/part-1-understanding-fear-d666d9bee765?source=rss-e956e8d58684------2)

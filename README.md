@@ -40,11 +40,11 @@
 <div align="left">
 
 <!-- Medium:START -->
+- [Part 2: 6 Laws to Lead a Productive Life](https://afrozchakure.medium.com/part-2-6-laws-to-lead-a-productive-life-358339d7e087?source=rss-e956e8d58684------2)
 - [Reinforcement Learning](https://medium.datadriveninvestor.com/a-comprehensive-guide-to-reinforcement-learning-3e7d1054978a?source=rss-e956e8d58684------2)
 - [10 Dialogues from “The Dark Knight” That Tech Us About Human Nature](https://afrozchakure.medium.com/10-dialogues-from-the-dark-knight-that-tech-us-about-human-nature-ef21f728b6cd?source=rss-e956e8d58684------2)
 - [7 Steps to Become a Good Software Developer](https://medium.datadriveninvestor.com/a-foolproof-plan-to-become-a-good-software-developer-9495b216c240?source=rss-e956e8d58684------2)
 - [Understanding Large Language Models &lpar;LLMs&rpar;](https://afrozchakure.medium.com/understanding-large-language-models-llms-f85d610d5d60?source=rss-e956e8d58684------2)
-- [Feels like Lost in the Shuffle, Again](https://afrozchakure.medium.com/feels-like-im-lost-in-the-shuffle-5f93738a8a97?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
 
 ➡️ [more blog posts...](https://medium.com/@afrozchakure)

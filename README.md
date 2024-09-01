@@ -42,7 +42,7 @@
 <!-- Medium:START -->
 - [The Story of the “Knowledge” Schools](https://medium.com/mr-plan-publication/the-story-of-the-knowledge-schools-a06f7a148ed2?source=rss-e956e8d58684------2)
 - [Nero Fiddles While Rome Burns](https://medium.com/mr-plan-publication/nero-fiddles-while-rome-burns-699aa1e394e1?source=rss-e956e8d58684------2)
-- [Part 2: 6 Laws to Lead a Productive Life](https://afrozchakure.medium.com/part-2-6-laws-to-lead-a-productive-life-358339d7e087?source=rss-e956e8d58684------2)
+- [Part 2: 6 Laws to Lead a Productive Life](https://medium.com/swlh/part-2-6-laws-to-lead-a-productive-life-358339d7e087?source=rss-e956e8d58684------2)
 - [Reinforcement Learning](https://medium.datadriveninvestor.com/a-comprehensive-guide-to-reinforcement-learning-3e7d1054978a?source=rss-e956e8d58684------2)
 - [10 Dialogues from “The Dark Knight” That Tech Us About Human Nature](https://afrozchakure.medium.com/10-dialogues-from-the-dark-knight-that-tech-us-about-human-nature-ef21f728b6cd?source=rss-e956e8d58684------2)
 <!-- Medium:END -->
